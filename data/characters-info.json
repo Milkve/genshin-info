@@ -185,26 +185,4 @@
       "vision": "Cryo",
       "star": 4
     }
-
-
-
-
-    ,{
-      "name": "Chongyun1", 
-      "img": "https://i2.wp.com/www.genshingamer.com/wp-content/uploads/2020/11/Chongyun-Icon.png?w=256&ssl=1",
-      "vision": "Cryo",
-      "star": 4
-    },
-    {
-      "name": "Kaeya1", 
-      "img": "https://i0.wp.com/www.genshingamer.com/wp-content/uploads/2020/11/Kaeya-Icon.png?w=256&ssl=1",
-      "vision": "Cryo",
-      "star": 4
-    },
-    {
-      "name": "Diona1", 
-      "img": "https://i1.wp.com/www.genshingamer.com/wp-content/uploads/2020/11/Diona-Icon.png?w=256&ssl=1",
-      "vision": "Cryo",
-      "star": 4
-    }
 ]
