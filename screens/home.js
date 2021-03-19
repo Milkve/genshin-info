@@ -1,23 +1,22 @@
 import React , { useState } from 'react';
 import { StatusBar } from 'expo-status-bar';
-import { Dimensions , StyleSheet, Text, View, Image, ScrollView } from 'react-native';
+import { Dimensions , StyleSheet, Text, View, Image, ScrollView, ImageBackground } from 'react-native';
 import {Picker} from '@react-native-community/picker';
 import data from "../data/characters-info.json";
+import vision from "../data/vision.json";
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#4287f5',
+    backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
   },
   view: {
-    backgroundColor: '#000',
+    backgroundColor: '#fff',
     flexDirection: "row",
     justifyContent: "center",
     flexWrap: 'wrap',
-    // height: Dimensions.get('window').height*0.8,
-    // width: Dimensions.get('window').width*0.9
   },
   scrollView: {
     padding: StatusBar.currentHeight,
@@ -25,27 +24,39 @@ const styles = StyleSheet.create({
   imagen: {
     width: Dimensions.get('window').width*0.3,
     height: Dimensions.get('window').height*0.2,
-    margin: Dimensions.get('window').width*0.01
+    margin: Dimensions.get('window').width*0.01,
+    justifyContent: "flex-end",
+    alignItems: "center",
   },
   filterView: {
     flexDirection: "row",
     justifyContent: "center",
     flexWrap: 'wrap',
     backgroundColor: '#7d0ee6',
-  }
+  },
+  image: {
+    width: Dimensions.get('window').width*0.08,
+    height: Dimensions.get('window').height*0.04, 
+  },
 });
 
 export default function Home() {
-
   const getIcons = data.map( (data) => {
     return (
-      <Image
+      <ImageBackground 
         key = {data.name}
-        style={styles.imagen}
         source={{
           uri: data.img,
         }}
-      />
+        style={styles.imagen}
+      >
+        <Image
+          style={styles.image}
+          source={{
+            uri: "https://ih1.redbubble.net/image.1849347856.1942/st,small,507x507-pad,600x600,f8f8f8.jpg",
+          }}
+        />
+      </ImageBackground>
     )
   });
 
@@ -57,12 +68,10 @@ export default function Home() {
 
   const setStarFunction = (value) => {
     setStar(value);
-    // applyFilter();
   };
 
   const setElemFunction = (value) => {
     setElement(value);
-    // applyFilter();
   };
 
 
@@ -103,14 +112,27 @@ export default function Home() {
       let aux = [];
       data.map( (data) => {
         if(characters.includes(data.name)){
+          var icon =  data.vision === "Pyro" ? require("../data/vision/Pyro.png") :
+                      data.vision === "Hydro" ? require("../data/vision/Hydro.png") :
+                      data.vision === "Electro" ? require("../data/vision/Electro.png") :
+                      data.vision === "Cryo" ? require("../data/vision/Cryo.png") :
+                      data.vision === "Anemo" ? require("../data/vision/Anemo.png") :
+                      data.vision === "Geo" ? require("../data/vision/Geo.png") :
+                      data.vision === "Dendro" ? require("../data/vision/Dendro.png") :
+                      require("../data/vision/Error.png");
           aux.push(
-            <Image
+            <ImageBackground 
               key = {data.name}
-              style={styles.imagen}
               source={{
                 uri: data.img,
               }}
-            />
+              style={styles.imagen}
+            >
+              <Image
+                style={styles.image}
+                source={icon}
+              />
+            </ImageBackground>
           );
         }
       });
@@ -152,7 +174,6 @@ export default function Home() {
 
   return (
     <View style={styles.container}>
-      {/* <Text>Genshin impact App title!</Text> */}
       {filter()}
       <ScrollView style={styles.scrollView}>
         <View style={styles.view}>
