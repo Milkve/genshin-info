@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { SafeAreaView, StyleSheet } from 'react-native';
+import { SafeAreaView, StyleSheet, View } from 'react-native';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 
 // Navigation
@@ -11,6 +11,7 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 // Screens
 import Home from './screens/home';
 import Characters from './screens/characters';
+import Details from './screens/details';
 // End Screens
 
 const Tab = createBottomTabNavigator();
@@ -23,26 +24,40 @@ export default function App() {
           screenOptions={({ route }) => ({
             tabBarIcon: ({ focused, color, size }) => {
               let iconName;
-
-              if (route.name === 'Home') {
-                iconName = focused
-                ? 'grid' 
-                : 'grid-outline';
-              } else if (route.name === 'Characters') {
-                iconName = focused 
-                  ? 'albums' 
-                  : 'albums-outline';
+              switch (route.name) {
+                case 'Home':
+                  iconName = focused
+                            ? 'grid' 
+                            : 'grid-outline';
+                  break;
+                case 'Characters':
+                  iconName = focused 
+                            ? 'albums' 
+                            : 'albums-outline';
+                  break;
+                case 'Details':
+                  iconName = focused 
+                            ? 'information-circle' 
+                            : 'information-circle-outline';
+                  break;
+                default:
+                  iconName = focused 
+                            ? 'bug' 
+                            : 'bug-outline';
+                  break;
               }
+
 
               // You can return any component that you like here!
               return <Ionicons name={iconName} size={size} color={color} />;
             },
           })}
           tabBarOptions={{
-            activeTintColor: 'tomato',
+            activeTintColor: 'blue',
             inactiveTintColor: 'gray',
           }}
         >
+          <Tab.Screen name="Details" component={Details} options={{ tabBarVisible: false}} />
           <Tab.Screen name="Home" component={Home} />
           <Tab.Screen name="Characters" component={Characters} />
         </Tab.Navigator>
@@ -50,6 +65,7 @@ export default function App() {
     </SafeAreaView>
   );
 }
+
 
 const styles = StyleSheet.create({
   container: {

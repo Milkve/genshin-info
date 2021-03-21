@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
   },
 });
 
-export default function Home() {
+export default function Home({ navigation}) {
 
   const [icons, setIcons] = useState([]);
   const [star, setStar] = useState(0);
@@ -65,62 +65,70 @@ export default function Home() {
         setIcons(getIconsFilter(characters, false));
       }
     };
-    const filterStar = (option) => {
-      let aux = [];
-      data.map( (data) => {
-        if(option === 0){
-          aux.push(data.name);
-        }else if(data.star === option){
-            aux.push(data.name);
-        }
-      });
-      return aux;
-    }
-    const filterElement = (option) => {
-      let aux = [];
-      data.map( (data) => {
-        if(option === "All"){
-          aux.push(data.name);
-        }else if(data.vision === option){
-            aux.push(data.name);
-        }
-      });
-      return aux;
-    }
-    // Params -> Characters: list of characters to draw, option: true is to draw all characters, false is to draw only the characters in the list
-    const getIconsFilter = (characters, option) => {
-      let aux = [];
-      data.map( (data) => {
-        if(characters.includes(data.name) || option){
-          var icon =  data.vision === "Pyro" ? require("../data/vision/Pyro.png") :
-                      data.vision === "Hydro" ? require("../data/vision/Hydro.png") :
-                      data.vision === "Electro" ? require("../data/vision/Electro.png") :
-                      data.vision === "Cryo" ? require("../data/vision/Cryo.png") :
-                      data.vision === "Anemo" ? require("../data/vision/Anemo.png") :
-                      data.vision === "Geo" ? require("../data/vision/Geo.png") :
-                      data.vision === "Dendro" ? require("../data/vision/Dendro.png") :
-                      require("../data/vision/Error.png");
-          aux.push(
-            <TouchableOpacity key = {data.name} onPress={() => {console.log(data.name)}}>
-              <ImageBackground
-                source={{
-                  uri: data.img,
-                }}
-                style={styles.imagen}
-              >
-                <Image
-                  style={styles.image}
-                  source={icon}
-                />
-              </ImageBackground>
-            </TouchableOpacity>
-          );
-        }
-      });
-      return aux;
-    }
     applyFilter();
   }, [star, element]); // If these variables change, the function is executed
+
+  const filterStar = (option) => {
+    let aux = [];
+    data.map( (data) => {
+      if(option === 0){
+        aux.push(data.name);
+      }else if(data.star === option){
+          aux.push(data.name);
+      }
+    });
+    return aux;
+  }
+
+  const filterElement = (option) => {
+    let aux = [];
+    data.map( (data) => {
+      if(option === "All"){
+        aux.push(data.name);
+      }else if(data.vision === option){
+          aux.push(data.name);
+      }
+    });
+    return aux;
+  }
+
+  // Params -> Characters: list of characters to draw, option: true is to draw all characters, false is to draw only the characters in the list
+  const getIconsFilter = (characters, option) => {
+    let aux = [];
+    data.map( (data) => {
+      if(characters.includes(data.name) || option){
+        var icon =  
+          data.vision === "Pyro" ? require("../data/vision/Pyro.png") :
+          data.vision === "Hydro" ? require("../data/vision/Hydro.png") :
+          data.vision === "Electro" ? require("../data/vision/Electro.png") :
+          data.vision === "Cryo" ? require("../data/vision/Cryo.png") :
+          data.vision === "Anemo" ? require("../data/vision/Anemo.png") :
+          data.vision === "Geo" ? require("../data/vision/Geo.png") :
+          data.vision === "Dendro" ? require("../data/vision/Dendro.png") :
+          require("../data/vision/Error.png");
+        aux.push(
+          <TouchableOpacity key = {data.name} onPress={() => { goToCharacter(data.name);}}>
+            <ImageBackground
+              source={{
+                uri: data.img,
+              }}
+              style={styles.imagen}
+            >
+              <Image
+                style={styles.image}
+                source={icon}
+              />
+            </ImageBackground>
+          </TouchableOpacity>
+        );
+      }
+    });
+    return aux;
+  }
+
+  const goToCharacter = (name) => {
+    navigation.navigate('Details', { name });
+  }
 
   // Widget of the filters characters app
   const filter = () =>{
