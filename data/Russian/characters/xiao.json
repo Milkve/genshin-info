@@ -1,0 +1,28 @@
+{
+	"name": "Сяо",
+	"title": "Защитник Якса",
+	"description": "Бессмертный дух Якса, охраняющий гавань Ли Юэ. Также зовётся Охотником на демонов или Защитником Якса.",
+	"rarity": "5",
+	"element": "Анемо",
+	"weapontype": "Древковое",
+	"substat": "Шанс крит. попадания",
+	"gender": "мужчина",
+	"body": "BOY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Адепты Ли Юэ",
+	"birthdaymmdd": "4/17",
+	"birthday": "17 апреля",
+	"constellation": "Златокрылая Птица",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xiao.png"
+	},
+	"cv": {
+		"english": "Laila Berzins",
+		"chinese": "kinsen",
+		"japanese": "松岡禎丞",
+		"korean": "심규혁"
+	},
+	"talentmaterialtype": ""
+}

@@ -1,0 +1,28 @@
+{
+	"name": "Qiqi",
+	"title": "Ressurreição Gélida",
+	"description": "Uma aprendiz e colhedora de ervas no Chalé de Bubu. Uma morta-viva com pele branca como osso, ela raramente tem muitas palavras ou emoções.",
+	"rarity": "5",
+	"element": "Cryo",
+	"weapontype": "Espada",
+	"substat": "Bônus de Cura",
+	"gender": "Feminino",
+	"body": "LOLI",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Chalé de Bubu",
+	"birthdaymmdd": "3/3",
+	"birthday": "3 de março",
+	"constellation": "Pristina Nola",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Qiqi.png"
+	},
+	"cv": {
+		"english": "Christie Cate",
+		"chinese": "宴宁",
+		"japanese": "田村ゆかり",
+		"korean": "이슬"
+	},
+	"talentmaterialtype": ""
+}

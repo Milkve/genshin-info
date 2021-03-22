@@ -1,0 +1,28 @@
+{
+	"name": "香菱",
+	"title": "万民百味",
+	"description": "璃月出身の少女シェフ。料理に対して人一倍情熱を持っており、激辛料理を得意とする。",
+	"rarity": "4",
+	"element": "炎",
+	"weapontype": "長柄武器",
+	"substat": "元素熟知",
+	"gender": "女",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "万民堂",
+	"birthdaymmdd": "11/2",
+	"birthday": "11月2日",
+	"constellation": "長杓座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xiangling.png"
+	},
+	"cv": {
+		"english": "Jackie Lastra",
+		"chinese": "小N",
+		"japanese": "小澤亜李",
+		"korean": "윤아영"
+	},
+	"talentmaterialtype": ""
+}

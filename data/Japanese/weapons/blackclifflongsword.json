@@ -1,0 +1,32 @@
+{
+	"name": "黒岩の長剣",
+	"description": "黒岩でできた長剣。黒い剣身には微かに血の光が見える。",
+	"weapontype": "片手剣",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "会心ダメージ",
+	"subvalue": "8",
+	"effectname": "勝ちに乗じる",
+	"effect": "敵を倒した後、攻撃力+{0}、継続時間30秒。最大3重まで、効果継続時間は重毎に別々でカウントされる。",
+	"r1": [
+		"12%"
+	],
+	"r2": [
+		"15%"
+	],
+	"r3": [
+		"18%"
+	],
+	"r4": [
+		"21%"
+	],
+	"r5": [
+		"24%"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blackrock.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blackrock_Awaken.png"
+	},
+	"url": ""
+}

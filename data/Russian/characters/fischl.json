@@ -1,0 +1,28 @@
+{
+	"name": "Фишль",
+	"title": "Принцесса осуждения",
+	"description": "Таинственная девушка, называющая себя «Принцессой осуждения» и путешествующая в сопровождении ворона по имени Оз.",
+	"rarity": "4",
+	"element": "Электро",
+	"weapontype": "Стрелковое",
+	"substat": "Сила атаки",
+	"gender": "женский",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Искатели приключений",
+	"birthdaymmdd": "5/27",
+	"birthday": "27 мая",
+	"constellation": "Призрачный Ворон",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Fischl.png"
+	},
+	"cv": {
+		"english": "Brittany Cox & Ben Pronsky",
+		"chinese": "Mace&李元韬",
+		"japanese": "内田真礼 & 増谷康紀",
+		"korean": "박고운 & 이현"
+	},
+	"talentmaterialtype": ""
+}

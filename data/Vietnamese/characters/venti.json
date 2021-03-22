@@ -1,0 +1,28 @@
+{
+	"name": "Venti",
+	"title": "Nhà Thơ Có Màu Của Gió",
+	"description": "Một trong các nhà thơ thành Mondstadt, tự do tự tại đi khắp hang cùng ngõ hẻm.",
+	"rarity": "5",
+	"element": "Phong",
+	"weapontype": "Cung",
+	"substat": "Hiệu Quả Nạp Nguyên Tố",
+	"gender": "nam",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Thành Mondstadt",
+	"birthdaymmdd": "6/16",
+	"birthday": "16 tháng 6",
+	"constellation": "Ca Tiên",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Venti.png"
+	},
+	"cv": {
+		"english": "Erika Harlacher",
+		"chinese": "喵酱",
+		"japanese": "村瀬歩",
+		"korean": "정유정"
+	},
+	"talentmaterialtype": ""
+}

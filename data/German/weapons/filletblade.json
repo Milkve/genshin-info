@@ -1,0 +1,37 @@
+{
+	"name": "Filetiermesser",
+	"description": "Ein eisernes Messer zum Filetieren von Fisch. Die Klinge ist nicht nur lang und schmal, sondern auch äußerst scharf.",
+	"weapontype": "Einhänder",
+	"rarity": "3",
+	"baseatk": 39,
+	"substat": "ANG",
+	"subvalue": "7.7",
+	"effectname": "Entschlossenheit",
+	"effect": "Fügt einem einzelnen Gegner bei einem Treffer mit einer Wahrscheinlichkeit von 50 % Schaden in Höhe von {0} ANG zu. {1} s Abklingzeit.",
+	"r1": [
+		"240 %",
+		"15"
+	],
+	"r2": [
+		"280 %",
+		"14"
+	],
+	"r3": [
+		"320 %",
+		"13"
+	],
+	"r4": [
+		"360 %",
+		"12"
+	],
+	"r5": [
+		"400 %",
+		"11"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Sashimi.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Sashimi_Awaken.png"
+	},
+	"url": ""
+}

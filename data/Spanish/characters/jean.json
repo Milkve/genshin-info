@@ -1,0 +1,28 @@
+{
+	"name": "Jean",
+	"title": "la Caballera de Dandelion",
+	"description": "La justa y rigurosa Caballera de Dandelion, y Gran Maestra Intendente de los Caballeros de Favonius de Mondstadt.",
+	"rarity": "5",
+	"element": "Anemo",
+	"weapontype": "Espada ligera",
+	"substat": "Bono de Curación",
+	"gender": "Femenino",
+	"body": "LADY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Caballeros de Favonius",
+	"birthdaymmdd": "3/14",
+	"birthday": "14 de marzo",
+	"constellation": "Leo Menor",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Qin.png"
+	},
+	"cv": {
+		"english": "Stephanie Southerland",
+		"chinese": "林簌",
+		"japanese": "斎藤千和",
+		"korean": "안영미"
+	},
+	"talentmaterialtype": ""
+}

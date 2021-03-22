@@ -1,0 +1,28 @@
+{
+	"name": "Син Цю",
+	"title": "Галантный юноша",
+	"description": "Молодой любитель книг с благородным сердцем и длинным мечом.",
+	"rarity": "4",
+	"element": "Гидро",
+	"weapontype": "Одноручное",
+	"substat": "Сила атаки",
+	"gender": "мужчина",
+	"body": "BOY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Торговая гильдия «Фэйюнь»",
+	"birthdaymmdd": "10/9",
+	"birthday": "9 октября",
+	"constellation": "Пёстрый Гобелен",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xingqiu.png"
+	},
+	"cv": {
+		"english": "Cristina Vee Valenzuela",
+		"chinese": "唐雅菁",
+		"japanese": "皆川純子",
+		"korean": "곽규미"
+	},
+	"talentmaterialtype": ""
+}

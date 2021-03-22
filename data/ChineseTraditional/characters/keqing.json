@@ -1,0 +1,28 @@
+{
+	"name": "刻晴",
+	"title": "霆霓快雨",
+	"description": "璃月七星之一，玉衡星。對「帝君一言而決的璃月」頗有微詞——但實際上，神還滿欣賞她這樣的人。",
+	"rarity": "5",
+	"element": "雷",
+	"weapontype": "單手劍",
+	"substat": "暴擊傷害",
+	"gender": "女",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "璃月七星",
+	"birthdaymmdd": "11/20",
+	"birthday": "11月20日",
+	"constellation": "金紫定垂座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Keqing.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Keqing.png"
+	},
+	"cv": {
+		"english": "Kayli Mills",
+		"chinese": "谢莹",
+		"japanese": "喜多村英梨",
+		"korean": "이보희"
+	},
+	"talentmaterialtype": ""
+}

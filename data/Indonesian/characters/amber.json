@@ -1,0 +1,28 @@
+{
+	"name": "Amber",
+	"title": "Gliding Champion",
+	"description": "Gadis periang yang selalu energik dan penuh semangat. Amber adalah Outrider terbaik (dan juga satu-satunya) di Knights of Favonius.",
+	"rarity": "4",
+	"element": "Pyro",
+	"weapontype": "Bow",
+	"substat": "ATK",
+	"gender": "Perempuan",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Knights of Favonius",
+	"birthdaymmdd": "8/10",
+	"birthday": "10 Agustus",
+	"constellation": "Lepus",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ambor.png"
+	},
+	"cv": {
+		"english": "Kelly Baskin",
+		"chinese": "蔡书瑾",
+		"japanese": "石見舞菜香",
+		"korean": "김연우"
+	},
+	"talentmaterialtype": ""
+}

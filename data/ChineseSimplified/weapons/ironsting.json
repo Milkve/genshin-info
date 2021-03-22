@@ -1,0 +1,32 @@
+{
+	"name": "铁蜂刺",
+	"description": "外形流利的细长刺剑，是从异国经由商路流落到璃月的奇异兵器。轻快无比，剑芒极其锐利。",
+	"weapontype": "单手剑",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "元素精通",
+	"subvalue": "36",
+	"effectname": "注能之刺",
+	"effect": "造成元素伤害后的6秒内，角色造成的伤害提高{0}，该效果最多叠加2层。该效果每1秒可以触发一次。",
+	"r1": [
+		"6%"
+	],
+	"r2": [
+		"7.5%"
+	],
+	"r3": [
+		"9%"
+	],
+	"r4": [
+		"10.5%"
+	],
+	"r5": [
+		"12%"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Exotic.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Exotic_Awaken.png"
+	},
+	"url": ""
+}

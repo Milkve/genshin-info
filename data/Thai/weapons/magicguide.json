@@ -1,0 +1,32 @@
+{
+	"name": "Magic Guide",
+	"description": "ตีพิมพ์ครั้งที่ 12 หนังสือที่ตีพิมพ์และปรับปรุงจาก 11 ครั้งที่ผ่านมา พร้อมกับเพิ่มเนื้อหาที่ได้รับ การพัฒนาแล้วด้วย",
+	"weapontype": "สื่อเวทย์",
+	"rarity": "3",
+	"baseatk": 38,
+	"substat": "ความชำนาญธาตุ",
+	"subvalue": "41",
+	"effectname": "Bane of Storm and Tide",
+	"effect": "เพิ่มความเสียหายแก่ศัตรูที่ได้รับผลกระทบของธาตุน้ำและไฟฟ้าขึ้น {0}",
+	"r1": [
+		"12%"
+	],
+	"r2": [
+		"15%"
+	],
+	"r3": [
+		"18%"
+	],
+	"r4": [
+		"21%"
+	],
+	"r5": [
+		"24%"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Intro.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Intro_Awaken.png"
+	},
+	"url": ""
+}

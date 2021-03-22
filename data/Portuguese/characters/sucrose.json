@@ -1,0 +1,28 @@
+{
+	"name": "Sucrose",
+	"title": "Doçura Inofensiva",
+	"description": "Uma alquimista cheio de curiosidade sobre todas as coisas. O pesquisador na prática da bioalquimia.",
+	"rarity": "4",
+	"element": "Anemo",
+	"weapontype": "Catalisador",
+	"substat": "Bônus de Dano Anemo",
+	"gender": "Feminino",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Cavaleiros de Favonius",
+	"birthdaymmdd": "11/26",
+	"birthday": "26 de novembro",
+	"constellation": "Ampulla",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Sucrose.png"
+	},
+	"cv": {
+		"english": "Valeria Rodriguez",
+		"chinese": "小敢",
+		"japanese": "藤田茜",
+		"korean": "김하영"
+	},
+	"talentmaterialtype": ""
+}

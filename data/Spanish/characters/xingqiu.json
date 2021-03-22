@@ -1,0 +1,28 @@
+{
+	"name": "Xingchiu",
+	"title": "el Joven Galante",
+	"description": "Un joven con una espada larga al que puede verse frecuentemente en las librerías. Tiene un corazón de oro y anhela la justicia y la igualdad para todos.",
+	"rarity": "4",
+	"element": "Hydro",
+	"weapontype": "Espada ligera",
+	"substat": "ATQ",
+	"gender": "Masculino",
+	"body": "BOY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Gremio de Comerciantes de Feiyun",
+	"birthdaymmdd": "10/9",
+	"birthday": "9 de octubre",
+	"constellation": "Fabulae Textile",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xingqiu.png"
+	},
+	"cv": {
+		"english": "Cristina Vee Valenzuela",
+		"chinese": "唐雅菁",
+		"japanese": "皆川純子",
+		"korean": "곽규미"
+	},
+	"talentmaterialtype": ""
+}

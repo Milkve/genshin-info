@@ -1,0 +1,22 @@
+{
+	"name": "Kiếm Bạc",
+	"description": "Kiếm bạc có thể đánh lùi ma quỷ. Nhưng mọi người đều biết kỳ thực nguyên liệu là hợp kim bạc chứ không phải bạc nguyên chất.",
+	"weapontype": "Kiếm Đơn",
+	"rarity": "2",
+	"baseatk": 33,
+	"substat": "",
+	"subvalue": "",
+	"effectname": "",
+	"effect": "",
+	"r1": [],
+	"r2": [],
+	"r3": [],
+	"r4": [],
+	"r5": [],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Silver.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Silver_Awaken.png"
+	},
+	"url": ""
+}

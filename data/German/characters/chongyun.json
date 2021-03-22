@@ -1,0 +1,28 @@
+{
+	"name": "Chongyun",
+	"title": "Spuren im schmelzenden Schnee",
+	"description": "Ein junger Mystiker aus einer Familie von Dämonenvertreibern, der alles dafür tut, seine „Yang-Lastigkeit“ zu unterdrücken.",
+	"rarity": "4",
+	"element": "Kryo",
+	"weapontype": "Zweihänder",
+	"substat": "ANG",
+	"gender": "Männlich",
+	"body": "BOY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Liyue",
+	"birthdaymmdd": "9/7",
+	"birthday": "7. September",
+	"constellation": "Nubis Caesor",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Chongyun.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Chongyun.png"
+	},
+	"cv": {
+		"english": "Beau Bridgland",
+		"chinese": "kinsen",
+		"japanese": "斉藤壮馬",
+		"korean": "양정화"
+	},
+	"talentmaterialtype": ""
+}

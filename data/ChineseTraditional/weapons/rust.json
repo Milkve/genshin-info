@@ -1,0 +1,32 @@
+{
+	"name": "弓藏",
+	"description": "佈滿鏽跡的鐵造大弓，一般人根本拿不動，遑論引弓放矢。",
+	"weapontype": "弓",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "攻擊力",
+	"subvalue": "9",
+	"effectname": "速射弓鬥",
+	"effect": "普通攻擊造成的傷害提升{0}，重擊造成的傷害下降10%。",
+	"r1": [
+		"40%"
+	],
+	"r2": [
+		"50%"
+	],
+	"r3": [
+		"60%"
+	],
+	"r4": [
+		"70%"
+	],
+	"r5": [
+		"80%"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Recluse_Awaken.png"
+	},
+	"url": ""
+}

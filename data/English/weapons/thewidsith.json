@@ -1,0 +1,43 @@
+{
+	"name": "The Widsith",
+	"description": "A heavy notebook filled with musical scores. Though suffering from moth damage and heavy wear-and-tear, there is still much power to be found among the hand-written words within.",
+	"weapontype": "Catalyst",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "CRIT DMG",
+	"subvalue": "12",
+	"effectname": "Debut",
+	"effect": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by {0}. Aria: Increases all Elemental DMG by {1}. Interlude: Elemental Mastery is increased by {2}.",
+	"r1": [
+		"60%",
+		"48%",
+		"240"
+	],
+	"r2": [
+		"75%",
+		"60%",
+		"300"
+	],
+	"r3": [
+		"90%",
+		"72%",
+		"360"
+	],
+	"r4": [
+		"105%",
+		"84%",
+		"420"
+	],
+	"r5": [
+		"120%",
+		"96%",
+		"480"
+	],
+	"weaponmaterialtype": "Boreal Wolf",
+	"images": {
+		"image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Weapon_The_Widsith.png",
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe_Awaken.png"
+	},
+	"url": "https://genshin-impact.fandom.com/wiki/The_Widsith"
+}

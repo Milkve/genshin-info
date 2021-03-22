@@ -1,0 +1,28 @@
+{
+	"name": "Lisa",
+	"title": "Witch of Purple Rose",
+	"description": "Pustakawan Knights of Favonius yang sangat malas namun berwawasan sangat luas, pernah dinyatakan oleh Sumeru Academia sebagai siswi kelulusan terbaik 2 abad terakhir.",
+	"rarity": "4",
+	"element": "Electro",
+	"weapontype": "Catalyst",
+	"substat": "Elemental Mastery",
+	"gender": "Perempuan",
+	"body": "LADY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Knights of Favonius",
+	"birthdaymmdd": "6/9",
+	"birthday": "9 Juni",
+	"constellation": "Horologium",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Lisa.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Lisa.png"
+	},
+	"cv": {
+		"english": "Mara Junot",
+		"chinese": "钟可",
+		"japanese": "田中理恵",
+		"korean": "박고운"
+	},
+	"talentmaterialtype": ""
+}

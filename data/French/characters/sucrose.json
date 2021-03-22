@@ -1,0 +1,28 @@
+{
+	"name": "Sucrose",
+	"title": "Alchimiste 100 % naturelle",
+	"description": "Une alchimiste très curieuse du monde qui l'entoure. Elle se spécialise dans la bio-alchimie.",
+	"rarity": "4",
+	"element": "Anémo",
+	"weapontype": "Catalyseur",
+	"substat": "Bonus de DGT Anémo",
+	"gender": "Femme",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Ordre de Favonius",
+	"birthdaymmdd": "11/26",
+	"birthday": "26 novembre",
+	"constellation": "Ampulla",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Sucrose.png"
+	},
+	"cv": {
+		"english": "Valeria Rodriguez",
+		"chinese": "小敢",
+		"japanese": "藤田茜",
+		"korean": "김하영"
+	},
+	"talentmaterialtype": ""
+}

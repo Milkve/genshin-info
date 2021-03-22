@@ -1,0 +1,28 @@
+{
+	"name": "Albedo",
+	"title": "Kreideprinz",
+	"description": "Génie connu sous le surnom de « Kreideprinz », Albedo est l'alchimiste en chef et le capitaine des enquêteurs de l'Ordre de Favonius.",
+	"rarity": "5",
+	"element": "Géo",
+	"weapontype": "Épée à une main",
+	"substat": "Bonus de DGT Géo",
+	"gender": "Homme",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Ordre de Favonius",
+	"birthdaymmdd": "9/13",
+	"birthday": "13 septembre",
+	"constellation": "Princeps Cretaceous",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Albedo.png"
+	},
+	"cv": {
+		"english": "Khoi Dao",
+		"chinese": "Mace",
+		"japanese": "野岛健儿",
+		"korean": "김명준"
+	},
+	"talentmaterialtype": ""
+}

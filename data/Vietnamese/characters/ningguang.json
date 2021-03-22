@@ -1,0 +1,28 @@
+{
+	"name": "Ningguang",
+	"title": "Yểm Nguyệt Thiên Quyền",
+	"description": "\"Thiên Quyền\" trong Thất Tinh Liyue, giàu có nổi tiếng, khắp đại lục khó ai sánh bằng.",
+	"rarity": "4",
+	"element": "Nham",
+	"weapontype": "Pháp Khí",
+	"substat": "Tăng ST Nguyên Tố Nham",
+	"gender": "nữ",
+	"body": "LADY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Thất Tinh Liyue",
+	"birthdaymmdd": "8/26",
+	"birthday": "26 tháng 8",
+	"constellation": "Cơ Hoành Nghi",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ningguang.png"
+	},
+	"cv": {
+		"english": "Erin Ebers",
+		"chinese": "杜冥鸦",
+		"japanese": "大原さやか",
+		"korean": "곽규미"
+	},
+	"talentmaterialtype": ""
+}

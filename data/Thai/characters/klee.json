@@ -1,0 +1,28 @@
+{
+	"name": "Klee",
+	"title": "ดวงอาทิตย์ที่หลบหนี",
+	"description": "แขกประจำห้องขังของกองอัศวินแห่ง Favonius ผู้เชี่ยวชาญด้านการระเบิดแห่ง Mondstadt ผู้คนเรียกเธอว่า \"ดวงอาทิตย์ที่หลบหนี\"",
+	"rarity": "5",
+	"element": "ไฟ",
+	"weapontype": "สื่อเวทย์",
+	"substat": "โบนัสความเสียหายไฟ",
+	"gender": "ผู้หญิง",
+	"body": "LOLI",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "กองอัศวินแห่ง Favonius",
+	"birthdaymmdd": "7/27",
+	"birthday": "27 กรกฎาคม",
+	"constellation": "Trifolium",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Klee.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Klee.png"
+	},
+	"cv": {
+		"english": "Poonam Basu",
+		"chinese": "花玲",
+		"japanese": "久野美咲",
+		"korean": "방연지"
+	},
+	"talentmaterialtype": ""
+}

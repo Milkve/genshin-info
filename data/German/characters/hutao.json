@@ -1,0 +1,28 @@
+{
+	"name": "Hu Tao",
+	"title": "Pflaumenduft bei Tauwetter",
+	"description": "77. Direktorin des Bestattungsunternehmens Wangsheng in Liyue. Sie übernahm die Leitung bereits in sehr jungen Jahren",
+	"rarity": "5",
+	"element": "Pyro",
+	"weapontype": "Stangenwaffe",
+	"substat": "KSCH",
+	"gender": "Weiblich",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Bestattungsunternehmen Wangsheng",
+	"birthdaymmdd": "7/15",
+	"birthday": "15. Juli",
+	"constellation": "Papilio Charontis",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Hutao.png"
+	},
+	"cv": {
+		"english": "Brianna Knickerbocker",
+		"chinese": "陶典",
+		"japanese": "高橋李依",
+		"korean": "김하루"
+	},
+	"talentmaterialtype": ""
+}

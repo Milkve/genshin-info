@@ -1,0 +1,42 @@
+{
+	"name": "The Widsith",
+	"description": "Sebuah buku catatan tebal yang berisi beragam tulisan lagu. Meskipun sudah tua dan dimakan ngengat, di dalam tulisannya masih tersimpan kekuatan yang besar.",
+	"weapontype": "Catalyst",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "CRIT DMG",
+	"subvalue": "12",
+	"effectname": "Debut",
+	"effect": "Saat memasuki pertempuran, memulai sebuah musik secara acak selama 10 detik. Dapat terpicu setiap 30 detik. Recitative: Meningkatkan {0} ATK. Aria: Meningkatkan {1} Elemental DMG. Interlude: Meningkatkan {2} Elemental Mastery.",
+	"r1": [
+		"60%",
+		"48%",
+		"240"
+	],
+	"r2": [
+		"75%",
+		"60%",
+		"300"
+	],
+	"r3": [
+		"90%",
+		"72%",
+		"360"
+	],
+	"r4": [
+		"105%",
+		"84%",
+		"420"
+	],
+	"r5": [
+		"120%",
+		"96%",
+		"480"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe_Awaken.png"
+	},
+	"url": ""
+}

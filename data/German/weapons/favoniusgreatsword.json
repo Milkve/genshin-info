@@ -1,0 +1,37 @@
+{
+	"name": "Favonius-Großschwert",
+	"description": "Ein zeremonielles Schwert des Ordo Favonius. Es vereinfacht das Bündeln elementarer Energie, während es eine enorme Zerstörungskraft mitbringt.",
+	"weapontype": "Zweihänder",
+	"rarity": "4",
+	"baseatk": 41,
+	"substat": "Aufladerate",
+	"subvalue": "13.3",
+	"effectname": "Folge dem Wind",
+	"effect": "Erschafft bei einem KT mit einer Wahrscheinlichkeit von {0} einige Elementarteilchen, die der Figur 6 Punkte Elementarenergie wiederherstellen. {1} s Abklingzeit.",
+	"r1": [
+		"60 %",
+		"12"
+	],
+	"r2": [
+		"70 %",
+		"10,5"
+	],
+	"r3": [
+		"80 %",
+		"9"
+	],
+	"r4": [
+		"90 %",
+		"7,5"
+	],
+	"r5": [
+		"100 %",
+		"6"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Zephyrus.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Zephyrus_Awaken.png"
+	},
+	"url": ""
+}

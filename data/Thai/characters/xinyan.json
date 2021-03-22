@@ -1,0 +1,28 @@
+{
+	"name": "Xinyan",
+	"title": "เมโลดี้อันร้อนแรง",
+	"description": "นักดนตรีร็อกแอนด์โรล เพียงหนึ่งเดียวของท่าเรือ Liyue ผู้ใช้บทเพลง และความหลงใหลในการร้องเพลง ในการต่อต้านความอคติ",
+	"rarity": "4",
+	"element": "ไฟ",
+	"weapontype": "ดาบใหญ่",
+	"substat": "พลังโจมตี",
+	"gender": "ผู้หญิง",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Liyue",
+	"birthdaymmdd": "10/16",
+	"birthday": "16 ตุลาคม",
+	"constellation": "Fila Ignium",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xinyan.png"
+	},
+	"cv": {
+		"english": "Laura Stahl",
+		"chinese": "王雅欣",
+		"japanese": "たかはし智秋",
+		"korean": "김채하"
+	},
+	"talentmaterialtype": ""
+}

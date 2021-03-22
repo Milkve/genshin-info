@@ -1,0 +1,28 @@
+{
+	"name": "Razor",
+	"title": "ลูกหมาป่า",
+	"description": "เด็กหนุ่มผู้ใช้ชีวิตร่วมกับหมาป่า ใน Wolvendom ซึ่งเป็นพื้นที่หนึ่งใน Mondstadt ที่ห่างไกลจากผู้คน มีปฏิกิริยาที่เฉียบแหลมและคล่องแคล่วว่องไว",
+	"rarity": "4",
+	"element": "ไฟฟ้า",
+	"weapontype": "ดาบใหญ่",
+	"substat": "โบนัสความเสียหายกายภาพ",
+	"gender": "ชาย",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Wolvendom",
+	"birthdaymmdd": "9/9",
+	"birthday": "9 กันยายน",
+	"constellation": "Lupus Minor",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Razor.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Razor.png"
+	},
+	"cv": {
+		"english": "Todd Haberkorn",
+		"chinese": "周帅",
+		"japanese": "内山昂輝",
+		"korean": "김서영"
+	},
+	"talentmaterialtype": ""
+}

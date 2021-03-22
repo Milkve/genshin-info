@@ -1,0 +1,28 @@
+{
+	"name": "Xinyan",
+	"title": "la Melodía Incandescente",
+	"description": "La única rockera de Liyue. A través de la música y la pasión de sus canciones, hace una crítica de los prejuicios de la sociedad.",
+	"rarity": "4",
+	"element": "Pyro",
+	"weapontype": "Mandoble",
+	"substat": "ATQ",
+	"gender": "Femenino",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Liyue",
+	"birthdaymmdd": "10/16",
+	"birthday": "16 de octubre",
+	"constellation": "Fila Ignium",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xinyan.png"
+	},
+	"cv": {
+		"english": "Laura Stahl",
+		"chinese": "王雅欣",
+		"japanese": "たかはし智秋",
+		"korean": "김채하"
+	},
+	"talentmaterialtype": ""
+}

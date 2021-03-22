@@ -1,0 +1,28 @@
+{
+	"name": "Klee",
+	"title": "Soleil fuyant",
+	"description": "Une invitée régulière des cellules de l'Ordre de Favonius, et également la maîtresse des explosions à Mondstadt, où on la surnomme « le soleil fuyant ».",
+	"rarity": "5",
+	"element": "Pyro",
+	"weapontype": "Catalyseur",
+	"substat": "Bonus de DGT Pyro",
+	"gender": "Femme",
+	"body": "LOLI",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Ordre de Favonius",
+	"birthdaymmdd": "7/27",
+	"birthday": "27 juillet",
+	"constellation": "Trifolium",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Klee.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Klee.png"
+	},
+	"cv": {
+		"english": "Poonam Basu",
+		"chinese": "花玲",
+		"japanese": "久野美咲",
+		"korean": "방연지"
+	},
+	"talentmaterialtype": ""
+}

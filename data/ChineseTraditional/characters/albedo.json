@@ -1,0 +1,28 @@
+{
+	"name": "阿貝多",
+	"title": "白堊之子",
+	"description": "西風騎士團首席煉金術士兼調查小隊隊長，被稱做「白堊之子」的天才。",
+	"rarity": "5",
+	"element": "岩",
+	"weapontype": "單手劍",
+	"substat": "岩元素傷害加成",
+	"gender": "男",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "西風騎士團",
+	"birthdaymmdd": "9/13",
+	"birthday": "9月13日",
+	"constellation": "白堊之子座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Albedo.png"
+	},
+	"cv": {
+		"english": "Khoi Dao",
+		"chinese": "Mace",
+		"japanese": "野島健児",
+		"korean": "김명준"
+	},
+	"talentmaterialtype": ""
+}

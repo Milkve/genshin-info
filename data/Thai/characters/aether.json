@@ -1,0 +1,28 @@
+{
+	"name": "Aether",
+	"title": "",
+	"description": "นักเดินทางจากต่างโลก ผู้ถูกพรากสายเลือดในครอบครัว เพียงหนึ่งเดียวไป และจำใจต้องออกเดินทาง เพื่อตามหา เทพทั้งเจ็ด",
+	"rarity": "5",
+	"element": "ไม่มี",
+	"weapontype": "ดาบ",
+	"substat": "พลังโจมตี",
+	"gender": "ชาย",
+	"body": "BOY",
+	"association": "MAINACTOR",
+	"region": "",
+	"affiliation": "",
+	"birthdaymmdd": "",
+	"birthday": "",
+	"constellation": "Viator/Viatrix",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_PlayerBoy.png"
+	},
+	"cv": {
+		"english": "Zach Aguilar & Corina Boettger",
+		"chinese": "鹿喑&多多poi",
+		"japanese": "堀江瞬&古賀葵",
+		"korean": "이경태&김가령"
+	},
+	"talentmaterialtype": ""
+}

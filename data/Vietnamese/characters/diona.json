@@ -1,0 +1,28 @@
+{
+	"name": "Diona",
+	"title": "Đặc Chế Quán Rượu Đuôi Mèo",
+	"description": "Thiếu nữ có dòng máu \"không phải người\" hiếm có, người pha chế rượu rất được yêu thích của Quán Rượu Đuôi Mèo.",
+	"rarity": "4",
+	"element": "Băng",
+	"weapontype": "Cung",
+	"substat": "Tăng ST Nguyên Tố Băng",
+	"gender": "nữ",
+	"body": "LOLI",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Quán Rượu Đuôi Mèo",
+	"birthdaymmdd": "1/18",
+	"birthday": "18 tháng 1",
+	"constellation": "Tiểu Miêu",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diona.png"
+	},
+	"cv": {
+		"english": "Dina Sherman",
+		"chinese": "诺亚",
+		"japanese": "井澤詩織",
+		"korean": "우정신"
+	},
+	"talentmaterialtype": ""
+}

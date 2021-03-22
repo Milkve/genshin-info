@@ -1,0 +1,28 @@
+{
+	"name": "Diona",
+	"title": "Coquetel da Cauda do Gato",
+	"description": "Uma jovem que herdou pequenas quantidades de sangue não humano. Ela é a bartender incrivelmente popular da taverna da Cauda do Gato.",
+	"rarity": "4",
+	"element": "Cryo",
+	"weapontype": "Arco",
+	"substat": "Bônus de Dano Cryo",
+	"gender": "Feminino",
+	"body": "LOLI",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "A Cauda do Gato",
+	"birthdaymmdd": "1/18",
+	"birthday": "18 de janeiro",
+	"constellation": "Feles",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diona.png"
+	},
+	"cv": {
+		"english": "Dina Sherman",
+		"chinese": "诺亚",
+		"japanese": "井澤詩織",
+		"korean": "우정신"
+	},
+	"talentmaterialtype": ""
+}

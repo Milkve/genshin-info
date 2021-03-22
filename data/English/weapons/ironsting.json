@@ -1,0 +1,33 @@
+{
+	"name": "Iron Sting",
+	"description": "An exotic long-bladed rapier that somehow found its way into Liyue via foreign traders. It is light, agile, and sharp.",
+	"weapontype": "Sword",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Elemental Mastery",
+	"subvalue": "36",
+	"effectname": "Infusion Stinger",
+	"effect": "Dealing Elemental DMG increases all DMG by {0} for 6s. Max 2 stacks. Can occur once every 1s.",
+	"r1": [
+		"6%"
+	],
+	"r2": [
+		"7.5%"
+	],
+	"r3": [
+		"9%"
+	],
+	"r4": [
+		"10.5%"
+	],
+	"r5": [
+		"12%"
+	],
+	"weaponmaterialtype": "Aerosiderite",
+	"images": {
+		"image": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Weapon_Iron_Sting.png",
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Exotic.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Exotic_Awaken.png"
+	},
+	"url": "https://genshin-impact.fandom.com/wiki/Iron_Sting"
+}

@@ -1,0 +1,28 @@
+{
+	"name": "辛炎",
+	"title": "爆熱リズム",
+	"description": "璃月港唯一のロックミュージシャン。音楽と情熱で「先入観」への反抗を歌う。",
+	"rarity": "4",
+	"element": "炎",
+	"weapontype": "両手剣",
+	"substat": "攻撃力",
+	"gender": "女",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "璃月港",
+	"birthdaymmdd": "10/16",
+	"birthday": "10月16日",
+	"constellation": "紅檀四弦座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xinyan.png"
+	},
+	"cv": {
+		"english": "Laura Stahl",
+		"chinese": "王雅欣",
+		"japanese": "たかはし智秋",
+		"korean": "김채하"
+	},
+	"talentmaterialtype": ""
+}

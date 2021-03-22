@@ -1,0 +1,28 @@
+{
+	"name": "班尼特",
+	"title": "命運試金石",
+	"description": "蒙德的冒險家少年，擁有與他的善良毫不相稱的霉運。",
+	"rarity": "4",
+	"element": "火",
+	"weapontype": "單手劍",
+	"substat": "元素充能效率",
+	"gender": "男",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "冒險家協會",
+	"birthdaymmdd": "2/29",
+	"birthday": "2月29日",
+	"constellation": "險路座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Bennett.png"
+	},
+	"cv": {
+		"english": "Cristina Vee Valenzuela",
+		"chinese": "穆雪婷",
+		"japanese": "逢坂良太",
+		"korean": "송하림"
+	},
+	"talentmaterialtype": ""
+}

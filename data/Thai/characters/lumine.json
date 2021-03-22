@@ -1,0 +1,28 @@
+{
+	"name": "Lumine",
+	"title": "",
+	"description": "นักเดินทางจากต่างโลก ผู้ถูกพรากสายเลือดในครอบครัว เพียงหนึ่งเดียวไป และจำใจต้องออกเดินทาง เพื่อตามหา เทพทั้งเจ็ด",
+	"rarity": "5",
+	"element": "ไม่มี",
+	"weapontype": "ดาบ",
+	"substat": "พลังโจมตี",
+	"gender": "ผู้หญิง",
+	"body": "GIRL",
+	"association": "MAINACTOR",
+	"region": "",
+	"affiliation": "",
+	"birthdaymmdd": "",
+	"birthday": "",
+	"constellation": "Viator/Viatrix",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_PlayerGirl.png"
+	},
+	"cv": {
+		"english": "Sarah Miller-Crews & Corina Boettger",
+		"chinese": "宴宁&多多poi",
+		"japanese": "悠木碧&古賀葵",
+		"korean": "이새아&김가령"
+	},
+	"talentmaterialtype": ""
+}

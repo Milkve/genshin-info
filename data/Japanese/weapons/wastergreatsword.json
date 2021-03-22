@@ -1,0 +1,22 @@
+{
+	"name": "訓練用大剣",
+	"description": "剣の形をした、ただの厚い鉄の断片。意志の強い人が持つと、岩をも切り裂く力を発揮する。",
+	"weapontype": "両手剣",
+	"rarity": "1",
+	"baseatk": 23,
+	"substat": "",
+	"subvalue": "",
+	"effectname": "",
+	"effect": "",
+	"r1": [],
+	"r2": [],
+	"r3": [],
+	"r4": [],
+	"r5": [],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki_Awaken.png"
+	},
+	"url": ""
+}

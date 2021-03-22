@@ -1,0 +1,28 @@
+{
+	"name": "Fischl",
+	"title": "เจ้าหญิงแห่งการลงทัณฑ์!!",
+	"description": "หญิงสาวลึกลับผู้เรียกตนเองว่า \"เจ้าหญิงแห่งการลงทัณฑ์\" ผู้ร่วมเดินทางไปพร้อมกับอีกาดำนามว่า Oz",
+	"rarity": "4",
+	"element": "ไฟฟ้า",
+	"weapontype": "ธนู",
+	"substat": "พลังโจมตี",
+	"gender": "ผู้หญิง",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "กิลด์นักผจญภัย",
+	"birthdaymmdd": "5/27",
+	"birthday": "27 พฤษภาคม",
+	"constellation": "Corvus",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Fischl.png"
+	},
+	"cv": {
+		"english": "Brittany Cox & Ben Pronsky",
+		"chinese": "Mace&李元韬",
+		"japanese": "内田真礼&増谷康紀",
+		"korean": "박고운&이현"
+	},
+	"talentmaterialtype": ""
+}

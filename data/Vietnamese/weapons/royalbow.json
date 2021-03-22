@@ -1,0 +1,32 @@
+{
+	"name": "Trường Cung Tông Thất",
+	"description": "Cung dài từng thuộc về quý tộc Monstadt cũ. Trải qua nhiều đời, dây cung vẫn rất mạnh mẽ.",
+	"weapontype": "Cung",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Tấn Công",
+	"subvalue": "9",
+	"effectname": "Chuyên Chú",
+	"effect": "Khi tấn công tạo thành sát thương, tăng tỷ lệ bạo kích {0}, nhiều nhất cộng dồn 5 lần. Sau khi tấn công tạo thành bạo kích, xóa hiệu quả Chuyên Chú đã có.",
+	"r1": [
+		"8%"
+	],
+	"r2": [
+		"10%"
+	],
+	"r3": [
+		"12%"
+	],
+	"r4": [
+		"14%"
+	],
+	"r5": [
+		"16%"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Theocrat.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Theocrat_Awaken.png"
+	},
+	"url": ""
+}

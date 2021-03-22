@@ -1,0 +1,28 @@
+{
+	"name": "Diluc",
+	"title": "เงาแห่งรุ่งอรุณ",
+	"description": "เจ้าของกิจการโรงผลิตไวน์แห่ง อาณาจักรใน Mondstadt ไม่มีใครเทียบเคียงได้ในทุกทาง",
+	"rarity": "5",
+	"element": "ไฟ",
+	"weapontype": "ดาบใหญ่",
+	"substat": "อัตราคริ",
+	"gender": "ชาย",
+	"body": "MALE",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Dawn Winery",
+	"birthdaymmdd": "4/30",
+	"birthday": "30 เมษายน",
+	"constellation": "Noctua",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diluc.png"
+	},
+	"cv": {
+		"english": "Sean Chiplock",
+		"chinese": "马洋",
+		"japanese": "小野賢章",
+		"korean": "최승훈"
+	},
+	"talentmaterialtype": ""
+}

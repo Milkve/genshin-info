@@ -1,0 +1,28 @@
+{
+	"name": "重雲",
+	"title": "雪消の跡",
+	"description": "妖魔退治一族の方士少年、自身の「純陽の体」を抑えるためにいろいろ苦労している。",
+	"rarity": "4",
+	"element": "氷",
+	"weapontype": "両手剣",
+	"substat": "攻撃力",
+	"gender": "男",
+	"body": "BOY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "璃月港",
+	"birthdaymmdd": "9/7",
+	"birthday": "9月7日",
+	"constellation": "乾坤鋒座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Chongyun.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Chongyun.png"
+	},
+	"cv": {
+		"english": "Beau Bridgland",
+		"chinese": "kinsen",
+		"japanese": "斉藤壮馬",
+		"korean": "양정화"
+	},
+	"talentmaterialtype": ""
+}

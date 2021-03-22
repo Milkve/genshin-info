@@ -1,0 +1,28 @@
+{
+	"name": "Xingqiu",
+	"title": "หนุ่มน้อยนักธุรกิจ",
+	"description": "เด็กหนุ่มผู้มักจะพบได้ที่ แผงขายหนังสือ ในมือถือดาบยาว และมีจิตวิญญาณแห่ง ความกล้าอยู่ในตัว",
+	"rarity": "4",
+	"element": "น้ำ",
+	"weapontype": "ดาบ",
+	"substat": "พลังโจมตี",
+	"gender": "ชาย",
+	"body": "BOY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "สมาคมการค้า Feiyun",
+	"birthdaymmdd": "10/9",
+	"birthday": "9 ตุลาคม",
+	"constellation": "Fabulae Textile",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xingqiu.png"
+	},
+	"cv": {
+		"english": "Cristina Vee Valenzuela",
+		"chinese": "唐雅菁",
+		"japanese": "皆川純子",
+		"korean": "곽규미"
+	},
+	"talentmaterialtype": ""
+}

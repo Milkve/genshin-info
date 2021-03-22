@@ -1,0 +1,28 @@
+{
+	"name": "Гань Юй",
+	"title": "Взгляд полнолуния",
+	"description": "Главный секретарь павильона Лунного моря. В её жилах течёт кровь мифического зверя цилиня.",
+	"rarity": "5",
+	"element": "Крио",
+	"weapontype": "Стрелковое",
+	"substat": "Крит. урон",
+	"gender": "женский",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Павильон Лунного моря",
+	"birthdaymmdd": "12/2",
+	"birthday": "2 декабря",
+	"constellation": "Священная Лань",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ganyu.png"
+	},
+	"cv": {
+		"english": "Jennifer Losi",
+		"chinese": "林簌",
+		"japanese": "上田麗奈",
+		"korean": "김선혜"
+	},
+	"talentmaterialtype": ""
+}

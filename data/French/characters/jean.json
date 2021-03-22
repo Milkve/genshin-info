@@ -1,0 +1,28 @@
+{
+	"name": "Jean",
+	"title": "Chevalier au Pissenlit",
+	"description": "Le Chevalier au Pissenlit, loyal et rigoureux, et la Grande Maîtresse suppléante de l'Ordre de Favonius.",
+	"rarity": "5",
+	"element": "Anémo",
+	"weapontype": "Épée à une main",
+	"substat": "Bonus de soins",
+	"gender": "Femme",
+	"body": "LADY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Ordre de Favonius",
+	"birthdaymmdd": "3/14",
+	"birthday": "14 mars",
+	"constellation": "Leo Minor",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Qin.png"
+	},
+	"cv": {
+		"english": "Stephanie Southerland",
+		"chinese": "林簌",
+		"japanese": "斎藤千和",
+		"korean": "안영미"
+	},
+	"talentmaterialtype": ""
+}

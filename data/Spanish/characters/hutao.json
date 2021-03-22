@@ -1,0 +1,28 @@
+{
+	"name": "Hu Tao",
+	"title": "la Guía del Más Allá",
+	"description": "77.ª directora de la Funeraria El Camino. Pese a su corta edad, ya es la principal encargada de todos los asuntos funerarios de Liyue.",
+	"rarity": "5",
+	"element": "Pyro",
+	"weapontype": "Lanza",
+	"substat": "Daño CRIT",
+	"gender": "Femenino",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Funeraria El Camino",
+	"birthdaymmdd": "7/15",
+	"birthday": "15 de julio",
+	"constellation": "Papilio Charontis",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Hutao.png"
+	},
+	"cv": {
+		"english": "Brianna Knickerbocker",
+		"chinese": "陶典",
+		"japanese": "高桥李依",
+		"korean": "김하루"
+	},
+	"talentmaterialtype": ""
+}

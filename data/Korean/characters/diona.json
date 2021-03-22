@@ -1,0 +1,28 @@
+{
+	"name": "디오나",
+	"title": "캐츠라인 칵테일",
+	"description": "「사람이 아닌」 혈통을 조금 물려받은 소녀. 「캣테일 술집」의 인기 바텐더이다",
+	"rarity": "4",
+	"element": "얼음",
+	"weapontype": "활",
+	"substat": "얼음 원소 피해 보너스",
+	"gender": "여성",
+	"body": "LOLI",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "캣테일 술집",
+	"birthdaymmdd": "1/18",
+	"birthday": "1월 18일",
+	"constellation": "고양이자리",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diona.png"
+	},
+	"cv": {
+		"english": "Dina Sherman",
+		"chinese": "诺亚",
+		"japanese": "이자와 시오리",
+		"korean": "우정신"
+	},
+	"talentmaterialtype": ""
+}

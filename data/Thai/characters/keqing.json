@@ -1,0 +1,28 @@
+{
+	"name": "Keqing",
+	"title": "ผู้บงการสายฟ้า",
+	"description": "Yuheng... หนึ่งใน Liyue Qixing มักจะมีคำบ่นเกี่ยวกับ \"คำตัดสินอันเด็ดขาดของราชาที่มีต่อ Liyue\" เสมอ... แต่ในความเป็นจริงแล้ว ท่านเทพนั้นค่อนข้างชื่นชม คนแบบเธอเลยทีเดียว",
+	"rarity": "5",
+	"element": "ไฟฟ้า",
+	"weapontype": "ดาบ",
+	"substat": "ความแรงคริ",
+	"gender": "ผู้หญิง",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Liyue Qixing",
+	"birthdaymmdd": "11/20",
+	"birthday": "20 พฤศจิกายน",
+	"constellation": "Trulla Cementarii",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Keqing.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Keqing.png"
+	},
+	"cv": {
+		"english": "Kayli Mills",
+		"chinese": "谢莹",
+		"japanese": "喜多村英梨",
+		"korean": "이보희"
+	},
+	"talentmaterialtype": ""
+}

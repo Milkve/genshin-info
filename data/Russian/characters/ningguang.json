@@ -1,0 +1,28 @@
+{
+	"name": "Нин Гуан",
+	"title": "Лунное затмение",
+	"description": "Воля Небес группировки Цисин. Её богатство несравнимо ни с кем на континенте Тейват.",
+	"rarity": "4",
+	"element": "Гео",
+	"weapontype": "Катализатор",
+	"substat": "Бонус Гео урона",
+	"gender": "женский",
+	"body": "LADY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Цисин",
+	"birthdaymmdd": "8/26",
+	"birthday": "26 августа",
+	"constellation": "Небесная Сфера",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ningguang.png"
+	},
+	"cv": {
+		"english": "Erin Ebers",
+		"chinese": "杜冥鸦",
+		"japanese": "大原さやか",
+		"korean": "곽규미"
+	},
+	"talentmaterialtype": ""
+}

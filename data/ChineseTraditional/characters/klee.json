@@ -1,0 +1,28 @@
+{
+	"name": "可莉",
+	"title": "逃跑的太陽",
+	"description": "西風騎士團禁閉室的常客，蒙德的爆破大師。人稱「逃跑的太陽」。",
+	"rarity": "5",
+	"element": "火",
+	"weapontype": "法器",
+	"substat": "火元素傷害加成",
+	"gender": "女",
+	"body": "LOLI",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "西風騎士團",
+	"birthdaymmdd": "7/27",
+	"birthday": "7月27日",
+	"constellation": "四葉草座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Klee.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Klee.png"
+	},
+	"cv": {
+		"english": "Poonam Basu",
+		"chinese": "花玲",
+		"japanese": "久野美咲",
+		"korean": "방연지"
+	},
+	"talentmaterialtype": ""
+}

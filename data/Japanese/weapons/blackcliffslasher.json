@@ -1,0 +1,32 @@
+{
+	"name": "黒岩の斬刀",
+	"description": "とても丈夫な黒岩大刀、刀身は暗赤色。",
+	"weapontype": "両手剣",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "会心ダメージ",
+	"subvalue": "12",
+	"effectname": "勝ちに乗じる",
+	"effect": "敵を倒した後、攻撃力+{0}、継続時間30秒。最大3重まで、継続時間は加算されず、重ごとに別カウントされる。",
+	"r1": [
+		"12%"
+	],
+	"r2": [
+		"15%"
+	],
+	"r3": [
+		"18%"
+	],
+	"r4": [
+		"21%"
+	],
+	"r5": [
+		"24%"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Blackrock.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Blackrock_Awaken.png"
+	},
+	"url": ""
+}

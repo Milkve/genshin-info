@@ -1,0 +1,28 @@
+{
+	"name": "Ganyu",
+	"title": "ผู้พิทักษ์แห่งจันทรา",
+	"description": "เลขาของ Yuehai Pavilion มีเลือดของสัตว์เวท \"กิเลน\" ไหลเวียนอยู่ในร่างกาย",
+	"rarity": "5",
+	"element": "น้ำแข็ง",
+	"weapontype": "ธนู",
+	"substat": "ความแรงคริ",
+	"gender": "ผู้หญิง",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Yuehai Pavilion",
+	"birthdaymmdd": "12/2",
+	"birthday": "2 ธันวาคม",
+	"constellation": "Sinae Unicornis",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ganyu.png"
+	},
+	"cv": {
+		"english": "Jennifer Losi",
+		"chinese": "林簌",
+		"japanese": "上田麗奈",
+		"korean": "김선혜"
+	},
+	"talentmaterialtype": ""
+}

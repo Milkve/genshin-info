@@ -1,0 +1,28 @@
+{
+	"name": "Qiqi",
+	"title": "Eisige Nacht der Wiedergänger",
+	"description": "Schülerin in der Bubu-Hütte und Kräutersammlerin. Sie ist leichenblass und redet nur sehr wenig. Ihr Miene verzieht sie kein einziges Mal.",
+	"rarity": "5",
+	"element": "Kryo",
+	"weapontype": "Einhänder",
+	"substat": "Heilungsbonus",
+	"gender": "Weiblich",
+	"body": "LOLI",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Bubu-Hütte",
+	"birthdaymmdd": "3/3",
+	"birthday": "3. März",
+	"constellation": "Pristina Nola",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Qiqi.png"
+	},
+	"cv": {
+		"english": "Christie Cate",
+		"chinese": "宴宁",
+		"japanese": "田村ゆかり",
+		"korean": "이슬"
+	},
+	"talentmaterialtype": ""
+}

@@ -1,0 +1,28 @@
+{
+	"name": "重云",
+	"title": "雪融有踪",
+	"description": "驱邪世家的年轻方士，为压制自身的「纯阳之体」费尽心机。",
+	"rarity": "4",
+	"element": "冰",
+	"weapontype": "双手剑",
+	"substat": "攻击力",
+	"gender": "男",
+	"body": "BOY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "璃月港",
+	"birthdaymmdd": "9/7",
+	"birthday": "9月7日",
+	"constellation": "乾坤锋座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Chongyun.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Chongyun.png"
+	},
+	"cv": {
+		"english": "博·布里奇兰德",
+		"chinese": "kinsen",
+		"japanese": "齐藤壮马",
+		"korean": "梁静花"
+	},
+	"talentmaterialtype": ""
+}

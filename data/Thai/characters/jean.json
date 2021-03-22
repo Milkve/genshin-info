@@ -1,0 +1,28 @@
+{
+	"name": "Jean",
+	"title": "อัศวิน Dandelion",
+	"description": "อัศวิน Dandelion ผู้ยึดมั่นในความถูกต้อง และเป็นผู้รักษาการผู้บัญชาการ ของกองอัศวินแห่ง Favonius",
+	"rarity": "5",
+	"element": "ลม",
+	"weapontype": "ดาบ",
+	"substat": "โบนัสการรักษา",
+	"gender": "ผู้หญิง",
+	"body": "LADY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "กองอัศวินแห่ง Favonius",
+	"birthdaymmdd": "3/14",
+	"birthday": "14 มีนาคม",
+	"constellation": "Leo Minor",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Qin.png"
+	},
+	"cv": {
+		"english": "Stephanie Southerland",
+		"chinese": "林簌",
+		"japanese": "斎藤千和",
+		"korean": "안영미"
+	},
+	"talentmaterialtype": ""
+}

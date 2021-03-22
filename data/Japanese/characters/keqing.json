@@ -1,0 +1,28 @@
+{
+	"name": "刻晴",
+	"title": "疾雷快雨",
+	"description": "「璃月七星」の一人、「玉衡」。「帝君の一言で決まる璃月」に不満を持っている——だが実のところ、神は彼女のような者を高く評価している。",
+	"rarity": "5",
+	"element": "雷",
+	"weapontype": "片手剣",
+	"substat": "会心ダメージ",
+	"gender": "女",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "璃月七星",
+	"birthdaymmdd": "11/20",
+	"birthday": "11月20日",
+	"constellation": "紫金錘重座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Keqing.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Keqing.png"
+	},
+	"cv": {
+		"english": "Kayli Mills",
+		"chinese": "谢莹",
+		"japanese": "喜多村英梨",
+		"korean": "이보희"
+	},
+	"talentmaterialtype": ""
+}

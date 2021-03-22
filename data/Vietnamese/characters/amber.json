@@ -1,0 +1,28 @@
+{
+	"name": "Amber",
+	"title": "Quán Quân Bay Lượn",
+	"description": "Cô gái luôn tràn đầy sinh lực, là Kỵ Sĩ Trinh Thám cuối cùng, ưu tú nhất của đội Kỵ Sĩ.",
+	"rarity": "4",
+	"element": "Hỏa",
+	"weapontype": "Cung",
+	"substat": "Tấn Công",
+	"gender": "nữ",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Đội Kỵ Sĩ Tây Phong",
+	"birthdaymmdd": "8/10",
+	"birthday": "10 tháng 8",
+	"constellation": "Tiểu Thố",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ambor.png"
+	},
+	"cv": {
+		"english": "Kelly Baskin",
+		"chinese": "蔡书瑾",
+		"japanese": "石見舞菜香",
+		"korean": "김연우"
+	},
+	"talentmaterialtype": ""
+}

@@ -1,0 +1,28 @@
+{
+	"name": "Leer",
+	"title": "",
+	"description": "Ein Reisender weit entfernt von der Heimat auf der Suche nach den Sieben, um seine Schwester wiederzufinden.",
+	"rarity": "5",
+	"element": "k. A.",
+	"weapontype": "Einhänder",
+	"substat": "ANG",
+	"gender": "Männlich",
+	"body": "BOY",
+	"association": "MAINACTOR",
+	"region": "",
+	"affiliation": "",
+	"birthdaymmdd": "",
+	"birthday": "",
+	"constellation": "Viator",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_PlayerBoy.png"
+	},
+	"cv": {
+		"english": "Zach Aguilar & Corina Boettger",
+		"chinese": "鹿喑&多多poi",
+		"japanese": "堀江瞬&古賀葵",
+		"korean": "이경태&김가령"
+	},
+	"talentmaterialtype": ""
+}

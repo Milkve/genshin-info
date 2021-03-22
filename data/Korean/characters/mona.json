@@ -1,0 +1,28 @@
+{
+	"name": "모나",
+	"title": "별하늘의 물거울",
+	"description": "신비로운 소녀 점성술사. 자칭 「위대한 점성술사 모나」. 명성에 걸맞은 뛰어난 실력을 가지고 있으며, 박학다식하나 거만하다",
+	"rarity": "5",
+	"element": "물",
+	"weapontype": "법구",
+	"substat": "원소 충전 효율",
+	"gender": "여성",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "몬드성",
+	"birthdaymmdd": "8/31",
+	"birthday": "8월 31일",
+	"constellation": "영천자리",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Mona.png"
+	},
+	"cv": {
+		"english": "Felecia Angelle",
+		"chinese": "陈婷婷",
+		"japanese": "코하라 코노미",
+		"korean": "우정신"
+	},
+	"talentmaterialtype": ""
+}

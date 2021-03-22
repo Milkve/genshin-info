@@ -1,0 +1,28 @@
+{
+	"name": "ディオナ",
+	"title": "キャッツテールスペシャル",
+	"description": "稀な「非人類」の血統を引いている少女、「キャッツテール」の超人気バーテンダー。",
+	"rarity": "4",
+	"element": "氷",
+	"weapontype": "弓",
+	"substat": "氷元素ダメージ",
+	"gender": "女",
+	"body": "LOLI",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "キャッツテール",
+	"birthdaymmdd": "1/18",
+	"birthday": "1月18日",
+	"constellation": "子猫座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diona.png"
+	},
+	"cv": {
+		"english": "Dina Sherman",
+		"chinese": "诺亚",
+		"japanese": "井澤詩織",
+		"korean": "우정신"
+	},
+	"talentmaterialtype": ""
+}

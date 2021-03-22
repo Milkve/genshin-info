@@ -1,0 +1,28 @@
+{
+	"name": "Venti",
+	"title": "Bardo Itinerante",
+	"description": "Um dos muitos bardos de Mondstadt, que vagueia livremente pelas ruas e becos da cidade.",
+	"rarity": "5",
+	"element": "Anemo",
+	"weapontype": "Arco",
+	"substat": "Recarga de Energia",
+	"gender": "Masculino",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Mondstadt",
+	"birthdaymmdd": "6/16",
+	"birthday": "16 de junho",
+	"constellation": "Carmen Dei",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Venti.png"
+	},
+	"cv": {
+		"english": "Erika Harlacher",
+		"chinese": "喵酱",
+		"japanese": "村瀬歩",
+		"korean": "정유정"
+	},
+	"talentmaterialtype": ""
+}

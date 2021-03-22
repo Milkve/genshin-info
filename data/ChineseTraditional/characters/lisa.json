@@ -1,0 +1,28 @@
+{
+	"name": "麗莎",
+	"title": "薔薇魔女",
+	"description": "慵懶而博學的圖書管理員，須彌教令院「兩百年一見」的天才畢業生。",
+	"rarity": "4",
+	"element": "雷",
+	"weapontype": "法器",
+	"substat": "元素精通",
+	"gender": "女",
+	"body": "LADY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "西風騎士團",
+	"birthdaymmdd": "6/9",
+	"birthday": "6月9日",
+	"constellation": "沙漏座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Lisa.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Lisa.png"
+	},
+	"cv": {
+		"english": "Mara Junot",
+		"chinese": "钟可",
+		"japanese": "田中理恵",
+		"korean": "박고운"
+	},
+	"talentmaterialtype": ""
+}

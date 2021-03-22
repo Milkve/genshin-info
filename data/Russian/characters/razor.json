@@ -1,0 +1,28 @@
+{
+	"name": "Рэйзор",
+	"title": "Инстинкт стаи",
+	"description": "Мальчик, живущий среди волков в Вольфендоме у Мондштадта, вдали от цивилизации. Ловок как молния.",
+	"rarity": "4",
+	"element": "Электро",
+	"weapontype": "Двуручное",
+	"substat": "Бонус физ. урона",
+	"gender": "мужчина",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Вольфендом",
+	"birthdaymmdd": "9/9",
+	"birthday": "9 сентября",
+	"constellation": "Проворный Волчонок",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Razor.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Razor.png"
+	},
+	"cv": {
+		"english": "Todd Haberkorn",
+		"chinese": "周帅",
+		"japanese": "内山昂輝",
+		"korean": "김서영"
+	},
+	"talentmaterialtype": ""
+}

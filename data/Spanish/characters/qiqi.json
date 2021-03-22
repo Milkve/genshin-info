@@ -1,0 +1,28 @@
+{
+	"name": "Qiqi",
+	"title": "la Resurrección del Hielo",
+	"description": "Una aprendiz y recolectora de hierbas en la Farmacia Bubu. Una zombi con una tez blanca como el hueso, de pocas palabras y emociones.",
+	"rarity": "5",
+	"element": "Cryo",
+	"weapontype": "Espada ligera",
+	"substat": "Bono de Curación",
+	"gender": "Femenino",
+	"body": "LOLI",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Farmacia Bubu",
+	"birthdaymmdd": "3/3",
+	"birthday": "3 de marzo",
+	"constellation": "Pristina Nola",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Qiqi.png"
+	},
+	"cv": {
+		"english": "Christie Cate",
+		"chinese": "宴宁",
+		"japanese": "田村ゆかり",
+		"korean": "이슬"
+	},
+	"talentmaterialtype": ""
+}

@@ -1,0 +1,28 @@
+{
+	"name": "Kaeya",
+	"title": "el Espadachín Glacial",
+	"description": "El gran estratega de los Caballeros de Favonius, con una apariencia algo excéntrica...",
+	"rarity": "4",
+	"element": "Cryo",
+	"weapontype": "Espada ligera",
+	"substat": "Recarga de Energía",
+	"gender": "Masculino",
+	"body": "MALE",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Caballeros de Favonius",
+	"birthdaymmdd": "11/30",
+	"birthday": "30 de noviembre",
+	"constellation": "Pavo Ocellus",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kaeya.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Kaeya.png"
+	},
+	"cv": {
+		"english": "Josey Montana McCoy",
+		"chinese": "孙晔",
+		"japanese": "鳥海浩輔",
+		"korean": "정주원"
+	},
+	"talentmaterialtype": ""
+}

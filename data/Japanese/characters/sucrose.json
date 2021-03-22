@@ -1,0 +1,28 @@
+{
+	"name": "スクロース",
+	"title": "無害の甘味",
+	"description": "この世界のありとあらゆるものに強い好奇心を抱く錬金術師。研究分野は「生物錬金」。",
+	"rarity": "4",
+	"element": "風",
+	"weapontype": "法器",
+	"substat": "風元素ダメージ",
+	"gender": "女",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "西風騎士団",
+	"birthdaymmdd": "11/26",
+	"birthday": "11月26日",
+	"constellation": "フラスコ座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Sucrose.png"
+	},
+	"cv": {
+		"english": "Valeria Rodriguez",
+		"chinese": "小敢",
+		"japanese": "藤田茜",
+		"korean": "김하영"
+	},
+	"talentmaterialtype": ""
+}

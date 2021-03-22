@@ -1,0 +1,32 @@
+{
+	"name": "Keqing",
+	"title": "Driving Thunder",
+	"description": "The Yuheng of the Liyue Qixing. Keqing has much to say about Rex Lapis' unilateral approach to policymaking in Liyue — but in truth, gods admire skeptics such as her quite a lot.",
+	"rarity": "5",
+	"element": "Electro",
+	"weapontype": "Sword",
+	"substat": "CRIT DMG",
+	"gender": "Female",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Liyue Qixing",
+	"birthdaymmdd": "11/20",
+	"birthday": "November 20",
+	"constellation": "Trulla Cementarii",
+	"images": {
+		"image": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Character_Keqing_Thumb.png",
+		"card": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Character_Keqing_Card.jpg",
+		"portrait": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Character_Keqing_Portrait.png",
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Keqing.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Keqing.png"
+	},
+	"cv": {
+		"english": "Kayli Mills",
+		"chinese": "谢莹",
+		"japanese": "喜多村英梨",
+		"korean": "이보희"
+	},
+	"talentmaterialtype": "Prosperity",
+	"url": "https://genshin-impact.fandom.com/wiki/Keqing"
+}

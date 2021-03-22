@@ -1,0 +1,22 @@
+{
+	"namemap": {
+		"anemo.json": "Anemo",
+		"cryo.json": "Cryo",
+		"dendro.json": "Dendro",
+		"electro.json": "Electro",
+		"geo.json": "Geo",
+		"hydro.json": "Hydro",
+		"pyro.json": "Pyro"
+	},
+	"names": {
+		"Anemo": "anemo.json",
+		"Cryo": "cryo.json",
+		"Dendro": "dendro.json",
+		"Electro": "electro.json",
+		"Geo": "geo.json",
+		"Hydro": "hydro.json",
+		"Pyro": "pyro.json"
+	},
+	"aliases": {},
+	"categories": {}
+}

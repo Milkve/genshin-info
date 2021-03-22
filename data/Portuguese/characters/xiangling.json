@@ -1,0 +1,28 @@
+{
+	"name": "Xiangling",
+	"title": "Mestre de Culinária de Liyue",
+	"description": "Uma renomada chef de Liyue. Ela é extremamente apaixonada por cozinhar e se destaca em fazer seus pratos quentes e picantes.",
+	"rarity": "4",
+	"element": "Pyro",
+	"weapontype": "Lança",
+	"substat": "Proficiência Elemental",
+	"gender": "Feminino",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Restaurante Wanmin",
+	"birthdaymmdd": "11/2",
+	"birthday": "2 de novembro",
+	"constellation": "Ladle",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xiangling.png"
+	},
+	"cv": {
+		"english": "Jackie Lastra",
+		"chinese": "小N",
+		"japanese": "小澤亜李",
+		"korean": "윤아영"
+	},
+	"talentmaterialtype": ""
+}

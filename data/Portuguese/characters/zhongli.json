@@ -1,0 +1,28 @@
+{
+	"name": "Zhongli",
+	"title": "Andarilho do Reino Mortal",
+	"description": "Um convidado misterioso da Funerária Wangsheng. Sabe de muita coisa.",
+	"rarity": "5",
+	"element": "Geo",
+	"weapontype": "Lança",
+	"substat": "Bônus de Dano GEO",
+	"gender": "Masculino",
+	"body": "MALE",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Porto de Liyue",
+	"birthdaymmdd": "12/31",
+	"birthday": "31 de dezembro",
+	"constellation": "Lapis Dei",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Zhongli.png"
+	},
+	"cv": {
+		"english": "Keith Silverstein",
+		"chinese": "彭博",
+		"japanese": "前野智昭",
+		"korean": "표영재"
+	},
+	"talentmaterialtype": ""
+}

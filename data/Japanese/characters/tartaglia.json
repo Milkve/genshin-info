@@ -1,0 +1,28 @@
+{
+	"name": "タルタリヤ",
+	"title": "「公子」",
+	"description": "ファトゥス第十一位、「公子」、その戦績や名前は広く知られている。",
+	"rarity": "5",
+	"element": "水",
+	"weapontype": "弓",
+	"substat": "水元素ダメージ",
+	"gender": "男",
+	"body": "MALE",
+	"association": "FATUI",
+	"region": "Snezhnaya",
+	"affiliation": "ファデュイ",
+	"birthdaymmdd": "7/20",
+	"birthday": "7月20日",
+	"constellation": "空鯨座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tartaglia.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Tartaglia.png"
+	},
+	"cv": {
+		"english": "Griffin Burns",
+		"chinese": "鱼冻",
+		"japanese": "木村良平",
+		"korean": "남도형"
+	},
+	"talentmaterialtype": ""
+}

@@ -1,0 +1,28 @@
+{
+	"name": "Chongyun",
+	"title": "Frozen Ardor",
+	"description": "Anak muda pewaris klan pembasmi iblis. Dia telah melakukan segalanya yang bisa dia lakukan untuk menahan \"Luapan Energi Yang\" yang ada dalam dirinya.",
+	"rarity": "4",
+	"element": "Cryo",
+	"weapontype": "Claymore",
+	"substat": "ATK",
+	"gender": "Pria",
+	"body": "BOY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Liyue Harbor",
+	"birthdaymmdd": "9/7",
+	"birthday": "7 September",
+	"constellation": "Nubis Caesor",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Chongyun.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Chongyun.png"
+	},
+	"cv": {
+		"english": "Beau Bridgland",
+		"chinese": "kinsen",
+		"japanese": "斉藤壮馬",
+		"korean": "양정화"
+	},
+	"talentmaterialtype": ""
+}

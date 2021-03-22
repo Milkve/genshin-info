@@ -1,0 +1,32 @@
+{
+	"name": "Mona",
+	"title": "Astral Reflection",
+	"description": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful.",
+	"rarity": "5",
+	"element": "Hydro",
+	"weapontype": "Catalyst",
+	"substat": "Energy Recharge",
+	"gender": "Female",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Mondstadt",
+	"birthdaymmdd": "8/31",
+	"birthday": "August 31",
+	"constellation": "Astrolabos",
+	"images": {
+		"image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Character_Mona_Thumb.png",
+		"card": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Character_Mona_Card.jpg",
+		"portrait": "https://static.wikia.nocookie.net/gensin-impact/images/f/fe/Character_Mona_Portrait.png",
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Mona.png"
+	},
+	"cv": {
+		"english": "Felecia Angelle",
+		"chinese": "陈婷婷",
+		"japanese": "小原好美",
+		"korean": "우정신"
+	},
+	"talentmaterialtype": "Resistance",
+	"url": "https://genshin-impact.fandom.com/wiki/Mona"
+}

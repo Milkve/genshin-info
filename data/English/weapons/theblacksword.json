@@ -1,0 +1,38 @@
+{
+	"name": "The Black Sword",
+	"description": "A pitch-black longsword that thirsts for violence and conflict. It is said that this weapon can cause its user to become drunk on the red wine of slaughter.",
+	"weapontype": "Sword",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "CRIT Rate",
+	"subvalue": "6",
+	"effectname": "Justice",
+	"effect": "Increases DMG dealt by Normal and Charged Attacks by {0}. Additionally, regenerates {1} of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s.",
+	"r1": [
+		"20%",
+		"60%"
+	],
+	"r2": [
+		"25%",
+		"70%"
+	],
+	"r3": [
+		"30%",
+		"80%"
+	],
+	"r4": [
+		"35%",
+		"90%"
+	],
+	"r5": [
+		"40%",
+		"100%"
+	],
+	"weaponmaterialtype": "Boreal Wolf",
+	"images": {
+		"image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Weapon_The_Black_Sword.png",
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Bloodstained.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Bloodstained_Awaken.png"
+	},
+	"url": "https://genshin-impact.fandom.com/wiki/The_Black_Sword"
+}

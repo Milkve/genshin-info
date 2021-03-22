@@ -1,0 +1,28 @@
+{
+	"name": "Hutao",
+	"title": "Fragrância de Ameixa Descongelada",
+	"description": "A 77.ª diretora da Funerária de Wangsheng. Apesar de ser jovem, já está encarregada de todos os assuntos funerários de Liyue.",
+	"rarity": "5",
+	"element": "Pyro",
+	"weapontype": "Lança",
+	"substat": "Dano Crítico",
+	"gender": "Feminino",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Funerária de Wangsheng",
+	"birthdaymmdd": "7/15",
+	"birthday": "15 de julho",
+	"constellation": "Papilio",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Hutao.png"
+	},
+	"cv": {
+		"english": "Brianna Knickerbocker",
+		"chinese": "陶典",
+		"japanese": "高橋李依",
+		"korean": "김하루"
+	},
+	"talentmaterialtype": ""
+}

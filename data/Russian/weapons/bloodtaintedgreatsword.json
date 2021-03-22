@@ -1,0 +1,32 @@
+{
+	"name": "Меч драконьей крови",
+	"description": "Стальной меч, по легенде запятнанный кровью дракона, что делает его невосприимчивым к повреждениям. Однако это свойство не распространяется на его владельца.",
+	"weapontype": "Двуручное",
+	"rarity": "3",
+	"baseatk": 38,
+	"substat": "Мастерство стихий",
+	"subvalue": "41",
+	"effectname": "Погибель огня и грома",
+	"effect": "Увеличивает на {0} урон против врагов, находящихся под действием Пиро или Электро элементов.",
+	"r1": [
+		"12%"
+	],
+	"r2": [
+		"15%"
+	],
+	"r3": [
+		"18%"
+	],
+	"r4": [
+		"21%"
+	],
+	"r5": [
+		"24%"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Siegfry.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Siegfry_Awaken.png"
+	},
+	"url": ""
+}

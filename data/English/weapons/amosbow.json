@@ -1,0 +1,38 @@
+{
+	"name": "Amos' Bow",
+	"description": "An extremely ancient bow that has retained its power despite its original master being long gone. It draws power from everyone and everything in the world, and the further away you are from that which your heart desires, the more powerful it is.",
+	"weapontype": "Bow",
+	"rarity": "5",
+	"baseatk": 46,
+	"substat": "ATK",
+	"subvalue": "10.8",
+	"effectname": "Strong-Willed",
+	"effect": "Increases Normal and Charged Attack DMG by {0}. After a Normal or Charged Attack is fired, DMG dealt increases by a further {1} every 0.1s the arrow is in the air for up to 5 times.",
+	"r1": [
+		"12%",
+		"8%"
+	],
+	"r2": [
+		"15%",
+		"10%"
+	],
+	"r3": [
+		"18%",
+		"12%"
+	],
+	"r4": [
+		"21%",
+		"14%"
+	],
+	"r5": [
+		"24%",
+		"16%"
+	],
+	"weaponmaterialtype": "Dandelion Gladiator",
+	"images": {
+		"image": "https://static.wikia.nocookie.net/gensin-impact/images/d/de/Weapon_Amos%27_Bow.png",
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Amos_Awaken.png"
+	},
+	"url": "https://genshin-impact.fandom.com/wiki/Amos%27_Bow"
+}

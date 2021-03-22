@@ -1,0 +1,28 @@
+{
+	"name": "Diona",
+	"title": "Putzige Mischung",
+	"description": "Eine junge Frau, die nicht-menschliches Blut in sich trägt. Zudem ist sie die äußerst beliebte Wirtin der Taverne „Zum Katzenschwanz“.",
+	"rarity": "4",
+	"element": "Kryo",
+	"weapontype": "Bogen",
+	"substat": "Kryo-SCH-Bonus",
+	"gender": "Weiblich",
+	"body": "LOLI",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Taverne Zum Katzenschwanz",
+	"birthdaymmdd": "1/18",
+	"birthday": "18. Januar",
+	"constellation": "Feles",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diona.png"
+	},
+	"cv": {
+		"english": "Dina Sherman",
+		"chinese": "诺亚",
+		"japanese": "井澤詩織",
+		"korean": "우정신"
+	},
+	"talentmaterialtype": ""
+}

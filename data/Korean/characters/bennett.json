@@ -1,0 +1,28 @@
+{
+	"name": "베넷",
+	"title": "운명의 시금석",
+	"description": "몬드의 모험가 소년, 그의 선량함과는 어울리지 않게 항상 운이 나쁘다",
+	"rarity": "4",
+	"element": "불",
+	"weapontype": "한손검",
+	"substat": "원소 충전 효율",
+	"gender": "남성",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "모험가 길드",
+	"birthdaymmdd": "2/29",
+	"birthday": "2월 29일",
+	"constellation": "험로자리",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Bennett.png"
+	},
+	"cv": {
+		"english": "Cristina Vee Valenzuela",
+		"chinese": "穆雪婷",
+		"japanese": "오오사카 료타",
+		"korean": "송하림"
+	},
+	"talentmaterialtype": ""
+}

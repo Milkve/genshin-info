@@ -1,0 +1,28 @@
+{
+	"name": "Zhongli",
+	"title": "Du Ngoạn Trần Thế",
+	"description": "Là người khách thần bí được \"Vãng Sinh Đường\" mời đến, kiến thức uyên bác, có sự hiểu biết với nhiều sự vật sự việc.",
+	"rarity": "5",
+	"element": "Nham",
+	"weapontype": "Vũ Khí Cán Dài",
+	"substat": "Tăng ST Nguyên Tố Nham",
+	"gender": "nam",
+	"body": "MALE",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Cảng Liyue",
+	"birthdaymmdd": "12/31",
+	"birthday": "31 tháng 12",
+	"constellation": "Nham Vương Đế Quân",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Zhongli.png"
+	},
+	"cv": {
+		"english": "Keith Silverstein",
+		"chinese": "彭博",
+		"japanese": "前野智昭",
+		"korean": "표영재"
+	},
+	"talentmaterialtype": ""
+}

@@ -1,0 +1,28 @@
+{
+	"name": "Beidou",
+	"title": "Long Vương Không Vương Miện",
+	"description": "Thủ lĩnh đội thuyền vũ trang \"Nam Thập Tự\", là chị đại hào sảng.",
+	"rarity": "4",
+	"element": "Lôi",
+	"weapontype": "Trọng Kiếm",
+	"substat": "Tăng ST Nguyên Tố Lôi",
+	"gender": "nữ",
+	"body": "LADY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Đội thuyền Nam Thập Tự",
+	"birthdaymmdd": "2/14",
+	"birthday": "14 tháng 2",
+	"constellation": "Nam Thiên Hải Sơn",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Beidou.png"
+	},
+	"cv": {
+		"english": "Allegra Clark",
+		"chinese": "唐雅菁",
+		"japanese": "小清水亜美",
+		"korean": "정유미"
+	},
+	"talentmaterialtype": ""
+}

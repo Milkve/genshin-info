@@ -1,0 +1,28 @@
+{
+	"name": "Barbara",
+	"title": "Thần Tượng Tỏa Sáng",
+	"description": "Mọi người trong thành Mondstadt đều yêu quý Barbara. Từ \"Thần Tượng\" là do cô đọc được từ một cuốn tạp chí.",
+	"rarity": "4",
+	"element": "Thủy",
+	"weapontype": "Pháp Khí",
+	"substat": "HP",
+	"gender": "nữ",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Giáo Hội Tây Phong",
+	"birthdaymmdd": "7/5",
+	"birthday": "5 tháng 7",
+	"constellation": "Kim Bôi",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Barbara.png"
+	},
+	"cv": {
+		"english": "Laura Stahl",
+		"chinese": "宋媛媛",
+		"japanese": "鬼頭明里",
+		"korean": "윤아영"
+	},
+	"talentmaterialtype": ""
+}

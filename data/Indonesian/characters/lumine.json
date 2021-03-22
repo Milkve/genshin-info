@@ -1,0 +1,28 @@
+{
+	"name": "Lumine",
+	"title": "",
+	"description": "Seorang pengembara yang berasal dari dunia lain, saudara satu-satunya yang ia miliki dirampas dari hadapannya oleh sesosok dewa, dan kini ia mengembara untuk mencari The Seven.",
+	"rarity": "5",
+	"element": "Tidak ada",
+	"weapontype": "Sword",
+	"substat": "ATK",
+	"gender": "Perempuan",
+	"body": "GIRL",
+	"association": "MAINACTOR",
+	"region": "",
+	"affiliation": "",
+	"birthdaymmdd": "",
+	"birthday": "",
+	"constellation": "Viator",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_PlayerGirl.png"
+	},
+	"cv": {
+		"english": "Sarah Miller-Crews & Corina Boettger",
+		"chinese": "宴宁&多多poi",
+		"japanese": "悠木碧&古賀葵",
+		"korean": "이새아&김가령"
+	},
+	"talentmaterialtype": ""
+}

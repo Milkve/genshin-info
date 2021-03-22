@@ -1,0 +1,32 @@
+{
+	"name": "Bennett",
+	"title": "Trial by Fire",
+	"description": "A good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
+	"rarity": "4",
+	"element": "Pyro",
+	"weapontype": "Sword",
+	"substat": "Energy Recharge",
+	"gender": "Male",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Adventurers' Guild",
+	"birthdaymmdd": "2/29",
+	"birthday": "February 29",
+	"constellation": "Rota Calamitas",
+	"images": {
+		"image": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Character_Bennett_Thumb.png",
+		"card": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Character_Bennett_Card.jpg",
+		"portrait": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Character_Bennett_Portrait.png",
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Bennett.png"
+	},
+	"cv": {
+		"english": "Cristina Vee Valenzuela",
+		"chinese": "穆雪婷",
+		"japanese": "逢坂良太",
+		"korean": "송하림"
+	},
+	"talentmaterialtype": "Resistance",
+	"url": "https://genshin-impact.fandom.com/wiki/Bennett"
+}

@@ -1,0 +1,22 @@
+{
+	"name": "學徒筆記",
+	"description": "某個優等生留下的學習筆記，娟秀的字跡非常好看。記錄了不少實用的咒語。",
+	"weapontype": "法器",
+	"rarity": "1",
+	"baseatk": 23,
+	"substat": "",
+	"subvalue": "",
+	"effectname": "",
+	"effect": "",
+	"r1": [],
+	"r2": [],
+	"r3": [],
+	"r4": [],
+	"r5": [],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice_Awaken.png"
+	},
+	"url": ""
+}

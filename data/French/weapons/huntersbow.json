@@ -1,0 +1,22 @@
+{
+	"name": "Arc de chasse",
+	"description": "La musique jouée par les chasseurs combine deux mélodies : la tension de l'arc et le sifflement des flèches.",
+	"weapontype": "Arc",
+	"rarity": "1",
+	"baseatk": 23,
+	"substat": "",
+	"subvalue": "",
+	"effectname": "",
+	"effect": "",
+	"r1": [],
+	"r2": [],
+	"r3": [],
+	"r4": [],
+	"r5": [],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters_Awaken.png"
+	},
+	"url": ""
+}

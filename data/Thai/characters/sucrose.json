@@ -1,0 +1,28 @@
+{
+	"name": "Sucrose",
+	"title": "ความหวานที่ไร้พิษสง",
+	"description": "นักเล่นแร่แปรธาตุที่เต็มไปด้วย ความอยากรู้อยากเห็นในทุกสิ่ง ทุกอย่าง เป็นผู้บุกเบิกวิชา \"การแปรธาตุชีวภาพ\"",
+	"rarity": "4",
+	"element": "ลม",
+	"weapontype": "สื่อเวทย์",
+	"substat": "โบนัสความเสียหายลม",
+	"gender": "ผู้หญิง",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "กองอัศวินแห่ง Favonius",
+	"birthdaymmdd": "11/26",
+	"birthday": "26 พฤศจิกายน",
+	"constellation": "Ampulla",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Sucrose.png"
+	},
+	"cv": {
+		"english": "Valeria Rodriguez",
+		"chinese": "小敢",
+		"japanese": "藤田茜",
+		"korean": "김하영"
+	},
+	"talentmaterialtype": ""
+}

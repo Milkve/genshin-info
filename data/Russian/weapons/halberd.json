@@ -1,0 +1,32 @@
+{
+	"name": "Алебарда Миллелита",
+	"description": "Длинное древко с прикреплённым лезвием на одном конце. Любимое оружие офицеров Миллелита.",
+	"weapontype": "Древковое",
+	"rarity": "3",
+	"baseatk": 40,
+	"substat": "Сила атаки",
+	"subvalue": "5.1",
+	"effectname": "Тяжёлый",
+	"effect": "Обычные атаки наносят дополнительные {0} урона. Может возникнуть не чаще 1 раза за 10 сек.",
+	"r1": [
+		"160%"
+	],
+	"r2": [
+		"200%"
+	],
+	"r3": [
+		"240%"
+	],
+	"r4": [
+		"280%"
+	],
+	"r5": [
+		"320%"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Halberd.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Halberd_Awaken.png"
+	},
+	"url": ""
+}

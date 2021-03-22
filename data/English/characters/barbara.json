@@ -1,0 +1,32 @@
+{
+	"name": "Barbara",
+	"title": "Shining Idol",
+	"description": "Every citizen of Mondstadt adores Barbara. She learned the word \"idol\" from a magazine.",
+	"rarity": "4",
+	"element": "Hydro",
+	"weapontype": "Catalyst",
+	"substat": "HP",
+	"gender": "Female",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Church of Favonius",
+	"birthdaymmdd": "7/5",
+	"birthday": "July 5",
+	"constellation": "Crater",
+	"images": {
+		"image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/Character_Barbara_Thumb.png",
+		"card": "https://static.wikia.nocookie.net/gensin-impact/images/9/93/Character_Barbara_Card.jpg",
+		"portrait": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Character_Barbara_Portrait.png",
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Barbara.png"
+	},
+	"cv": {
+		"english": "Laura Stahl",
+		"chinese": "宋媛媛",
+		"japanese": "鬼頭明里",
+		"korean": "윤아영"
+	},
+	"talentmaterialtype": "Freedom",
+	"url": "https://genshin-impact.fandom.com/wiki/Barbara"
+}

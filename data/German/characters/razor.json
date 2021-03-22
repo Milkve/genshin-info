@@ -1,0 +1,28 @@
+{
+	"name": "Razor",
+	"title": "Wolfsjunge",
+	"description": "Ein Junge, der zusammen mit Wölfen in Wolfenlauf bei Mondstadt weit ab von den Menschen lebt. Seine Instinkte sind scharf und seine Bewegungen schnell.",
+	"rarity": "4",
+	"element": "Elektro",
+	"weapontype": "Zweihänder",
+	"substat": "Physischer SCH-Bonus",
+	"gender": "Männlich",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Wolfenlauf",
+	"birthdaymmdd": "9/9",
+	"birthday": "9. September",
+	"constellation": "Lupus Minor",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Razor.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Razor.png"
+	},
+	"cv": {
+		"english": "Todd Haberkorn",
+		"chinese": "周帅",
+		"japanese": "内山昂輝",
+		"korean": "김서영"
+	},
+	"talentmaterialtype": ""
+}

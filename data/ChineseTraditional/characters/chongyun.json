@@ -1,0 +1,28 @@
+{
+	"name": "重雲",
+	"title": "雪融有蹤",
+	"description": "驅邪世家的年輕術士，為壓制自身的「純陽之體」費盡心機。",
+	"rarity": "4",
+	"element": "冰",
+	"weapontype": "雙手劍",
+	"substat": "攻擊力",
+	"gender": "男",
+	"body": "BOY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "璃月港",
+	"birthdaymmdd": "9/7",
+	"birthday": "9月7日",
+	"constellation": "乾坤鋒座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Chongyun.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Chongyun.png"
+	},
+	"cv": {
+		"english": "Beau Bridgland",
+		"chinese": "kinsen",
+		"japanese": "斉藤壮馬",
+		"korean": "양정화"
+	},
+	"talentmaterialtype": ""
+}

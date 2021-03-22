@@ -1,0 +1,32 @@
+{
+	"name": "Cool Steel",
+	"description": "Senjata yang dibentuk dari banyak lapisan baja, juga menjadi tanda akan petualangan-petualangan besar pemiliknya.",
+	"weapontype": "Sword",
+	"rarity": "3",
+	"baseatk": 39,
+	"substat": "ATK",
+	"subvalue": "7.7",
+	"effectname": "Bane of Water and Ice",
+	"effect": "Meningkatkan {0} DMG terhadap musuh yang terkena elemen Hydro atau Cryo.",
+	"r1": [
+		"12%"
+	],
+	"r2": [
+		"15%"
+	],
+	"r3": [
+		"18%"
+	],
+	"r4": [
+		"21%"
+	],
+	"r5": [
+		"24%"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Steel.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Steel_Awaken.png"
+	},
+	"url": ""
+}

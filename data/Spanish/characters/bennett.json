@@ -1,0 +1,28 @@
+{
+	"name": "Bennett",
+	"title": "el Tentador del Destino",
+	"description": "El chico aventurero de Mondstadt. Su naturaleza amable no va acorde con su mala suerte.",
+	"rarity": "4",
+	"element": "Pyro",
+	"weapontype": "Espada ligera",
+	"substat": "Recarga de Energía",
+	"gender": "Masculino",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Gremio de Aventureros",
+	"birthdaymmdd": "2/29",
+	"birthday": "29 de febrero",
+	"constellation": "Rota Calamitas",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Bennett.png"
+	},
+	"cv": {
+		"english": "Cristina Vee Valenzuela",
+		"chinese": "穆雪婷",
+		"japanese": "逢坂良太",
+		"korean": "송하림"
+	},
+	"talentmaterialtype": ""
+}

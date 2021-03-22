@@ -1,0 +1,28 @@
+{
+	"name": "Xinyan",
+	"title": "Glühend heiße Musik",
+	"description": "Das Mädchen mit dem stürmischsten Musikgeschmack in ganz Liyue. Mit ihrer Musik und ihrem leidenschaftlichen Gesang lehnt sie sich gegen die vorgefassten Meinungen auf.",
+	"rarity": "4",
+	"element": "Pyro",
+	"weapontype": "Zweihänder",
+	"substat": "ANG",
+	"gender": "Weiblich",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Liyue",
+	"birthdaymmdd": "10/16",
+	"birthday": "16. Oktober",
+	"constellation": "Fila Ignium",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xinyan.png"
+	},
+	"cv": {
+		"english": "Laura Stahl",
+		"chinese": "王雅欣",
+		"japanese": "たかはし智秋",
+		"korean": "김채하"
+	},
+	"talentmaterialtype": ""
+}

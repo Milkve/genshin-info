@@ -1,0 +1,28 @@
+{
+	"name": "Bárbara",
+	"title": "la Ídolo Radiante",
+	"description": "Todos los habitantes de Mondstadt adoran a Bárbara. Ella vio por primera vez la palabra “ídolo” en una revista.",
+	"rarity": "4",
+	"element": "Hydro",
+	"weapontype": "Catalizador",
+	"substat": "Vida",
+	"gender": "Femenino",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Iglesia de Favonius",
+	"birthdaymmdd": "7/5",
+	"birthday": "5 de julio",
+	"constellation": "Cratus",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Barbara.png"
+	},
+	"cv": {
+		"english": "Laura Stahl",
+		"chinese": "宋媛媛",
+		"japanese": "鬼頭明里",
+		"korean": "윤아영"
+	},
+	"talentmaterialtype": ""
+}

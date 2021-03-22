@@ -1,0 +1,28 @@
+{
+	"name": "Éter",
+	"title": "",
+	"description": "#{F#Una viajera}{M#Un viajero} de otro mundo a quien arrebataron a su único familiar, y que se vio obligad{F#a}{M#o} a embarcarse en un viaje en busca de Los Siete.",
+	"rarity": "5",
+	"element": "No disponible",
+	"weapontype": "Espada ligera",
+	"substat": "ATQ",
+	"gender": "Masculino",
+	"body": "BOY",
+	"association": "MAINACTOR",
+	"region": "",
+	"affiliation": "",
+	"birthdaymmdd": "",
+	"birthday": "",
+	"constellation": "Viator",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_PlayerBoy.png"
+	},
+	"cv": {
+		"english": "Zach Aguilar y Corina Boettger",
+		"chinese": "鹿喑&多多poi",
+		"japanese": "堀江瞬&古賀葵",
+		"korean": "이경태&김가령"
+	},
+	"talentmaterialtype": ""
+}

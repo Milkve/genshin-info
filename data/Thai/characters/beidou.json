@@ -1,0 +1,28 @@
+{
+	"name": "Beidou",
+	"title": "ราชินีไร้บัลลังก์แห่งท้องทะเล",
+	"description": "ผู้นำกองทัพเรือติดอาวุธ \"Crux\" สตรีผู้ซื่อตรงและ ไร้ซึ่งพันธนาการ",
+	"rarity": "4",
+	"element": "ไฟฟ้า",
+	"weapontype": "ดาบใหญ่",
+	"substat": "โบนัสความเสียหายไฟฟ้า",
+	"gender": "ผู้หญิง",
+	"body": "LADY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "กองทัพเรือ Crux",
+	"birthdaymmdd": "2/14",
+	"birthday": "14 กุมภาพันธ์",
+	"constellation": "Victor Mare",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Beidou.png"
+	},
+	"cv": {
+		"english": "Allegra Clark",
+		"chinese": "唐雅菁",
+		"japanese": "小清水亜美",
+		"korean": "정유미"
+	},
+	"talentmaterialtype": ""
+}

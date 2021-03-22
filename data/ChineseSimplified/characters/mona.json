@@ -1,0 +1,28 @@
+{
+	"name": "莫娜",
+	"title": "星天水镜",
+	"description": "神秘的少女占星术士，声称自己是「伟大的占星术士莫娜」，拥有与名号相符的不俗实力，博学而高傲。",
+	"rarity": "5",
+	"element": "水",
+	"weapontype": "法器",
+	"substat": "元素充能效率",
+	"gender": "女",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "蒙德城",
+	"birthdaymmdd": "8/31",
+	"birthday": "8月31日",
+	"constellation": "映天座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Mona.png"
+	},
+	"cv": {
+		"english": "费丽茜娅·安吉尔",
+		"chinese": "陈婷婷",
+		"japanese": "小原好美",
+		"korean": "禹贞信"
+	},
+	"talentmaterialtype": ""
+}

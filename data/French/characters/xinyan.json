@@ -1,0 +1,28 @@
+{
+	"name": "Xinyan",
+	"title": "Mélodie ardente",
+	"description": "La seule et unique rockeuse de Liyue. Elle combat les préjugés avec sa musique et ses chansons passionnées.",
+	"rarity": "4",
+	"element": "Pyro",
+	"weapontype": "Épée à deux mains",
+	"substat": "ATQ",
+	"gender": "Femme",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Port de Liyue",
+	"birthdaymmdd": "10/16",
+	"birthday": "16 octobre",
+	"constellation": "Fila Ignium",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xinyan.png"
+	},
+	"cv": {
+		"english": "Laura Stahl",
+		"chinese": "王雅欣",
+		"japanese": "たかはし智秋",
+		"korean": "김채하"
+	},
+	"talentmaterialtype": ""
+}

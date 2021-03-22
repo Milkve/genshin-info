@@ -1,0 +1,28 @@
+{
+	"name": "Venti",
+	"title": "Wandernder Barde",
+	"description": "Einer der vielen Barden in Mondstadt, der frei und wohlgemut durch die Gassen schlendert.",
+	"rarity": "5",
+	"element": "Anemo",
+	"weapontype": "Bogen",
+	"substat": "Aufladerate",
+	"gender": "Männlich",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Mondstadt",
+	"birthdaymmdd": "6/16",
+	"birthday": "16. Juni",
+	"constellation": "Carmen Dei",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Venti.png"
+	},
+	"cv": {
+		"english": "Erika Harlacher",
+		"chinese": "喵酱",
+		"japanese": "村瀬歩",
+		"korean": "정유정"
+	},
+	"talentmaterialtype": ""
+}

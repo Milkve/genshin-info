@@ -1,0 +1,32 @@
+{
+	"name": "絶弦",
+	"description": "かつて楽器として有名だった弓。今はもう踊りに使われることはない。",
+	"weapontype": "弓",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "元素熟知",
+	"subvalue": "36",
+	"effectname": "矢なしの詩",
+	"effect": "元素スキルと元素爆発のダメージ+{0}。",
+	"r1": [
+		"24%"
+	],
+	"r2": [
+		"30%"
+	],
+	"r3": [
+		"36%"
+	],
+	"r4": [
+		"42%"
+	],
+	"r5": [
+		"48%"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe_Awaken.png"
+	},
+	"url": ""
+}

@@ -1,0 +1,32 @@
+{
+	"name": "Tailleur de pierre (prototype)",
+	"description": "Une ancienne épée longue trouvée à la Forge de Rochenoire, capable de pénétrer la roche comme dans du beurre.",
+	"weapontype": "Épée à une main",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "Bonus de DGT physiques",
+	"subvalue": "7.5",
+	"effectname": "Pierre cassée",
+	"effect": "Les attaques normales et chargées augmentent l'ATQ et la DÉF de {0} pendant 6 s. Cet effet peut être cumulé 4 fois au maximum, et peut être déclenché 1 fois toutes les 0,3 s.",
+	"r1": [
+		"4 %"
+	],
+	"r2": [
+		"5 %"
+	],
+	"r3": [
+		"6 %"
+	],
+	"r4": [
+		"7 %"
+	],
+	"r5": [
+		"8 %"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Proto.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Proto_Awaken.png"
+	},
+	"url": ""
+}

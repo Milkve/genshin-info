@@ -1,0 +1,28 @@
+{
+	"name": "Diona",
+	"title": "la Cantinera Felina",
+	"description": "Una joven cuya sangre no es humana por completo. Es la popular cantinera de la Taberna Cola de Gato.",
+	"rarity": "4",
+	"element": "Cryo",
+	"weapontype": "Arco",
+	"substat": "Bono de Daño Cryo",
+	"gender": "Femenino",
+	"body": "LOLI",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Taberna Cola de Gato",
+	"birthdaymmdd": "1/18",
+	"birthday": "18 de enero",
+	"constellation": "Feles",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diona.png"
+	},
+	"cv": {
+		"english": "Dina Sherman",
+		"chinese": "诺亚",
+		"japanese": "井泽诗织",
+		"korean": "우정신"
+	},
+	"talentmaterialtype": ""
+}

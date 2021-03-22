@@ -1,0 +1,28 @@
+{
+	"name": "Кли",
+	"title": "Ускользающее солнце",
+	"description": "Эксперт по взрывчатке и частый гость темницы Ордо Фавониус. Также известна, как «Ускользающее солнце».",
+	"rarity": "5",
+	"element": "Пиро",
+	"weapontype": "Катализатор",
+	"substat": "Бонус Пиро урона",
+	"gender": "женский",
+	"body": "LOLI",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Ордо Фавониус",
+	"birthdaymmdd": "7/27",
+	"birthday": "27 июля",
+	"constellation": "Четырёхлистный Клевер",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Klee.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Klee.png"
+	},
+	"cv": {
+		"english": "Poonam Basu",
+		"chinese": "花玲",
+		"japanese": "久野美咲",
+		"korean": "방연지"
+	},
+	"talentmaterialtype": ""
+}

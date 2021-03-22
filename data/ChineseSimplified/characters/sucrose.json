@@ -1,0 +1,28 @@
+{
+	"name": "砂糖",
+	"title": "无害甜度",
+	"description": "对万物充满好奇的炼金术士，「生物炼金」学派的研究者。",
+	"rarity": "4",
+	"element": "风",
+	"weapontype": "法器",
+	"substat": "风元素伤害加成",
+	"gender": "女",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "西风骑士团",
+	"birthdaymmdd": "11/26",
+	"birthday": "11月26日",
+	"constellation": "烧瓶座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Sucrose.png"
+	},
+	"cv": {
+		"english": "瓦莱里娅·罗德里格兹",
+		"chinese": "小敢",
+		"japanese": "藤田茜",
+		"korean": "金荷英"
+	},
+	"talentmaterialtype": ""
+}

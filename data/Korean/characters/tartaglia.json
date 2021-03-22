@@ -1,0 +1,28 @@
+{
+	"name": "타르탈리아",
+	"title": "",
+	"description": "우인단의 11번째 집행관 「타르탈리아」. 화려한 전적으로 명성을 널리 떨쳤다",
+	"rarity": "5",
+	"element": "물",
+	"weapontype": "활",
+	"substat": "물 원소 피해 보너스",
+	"gender": "남성",
+	"body": "MALE",
+	"association": "FATUI",
+	"region": "Snezhnaya",
+	"affiliation": "우인단",
+	"birthdaymmdd": "7/20",
+	"birthday": "7월 20일",
+	"constellation": "경천자리",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tartaglia.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Tartaglia.png"
+	},
+	"cv": {
+		"english": "Griffin Burns",
+		"chinese": "鱼冻",
+		"japanese": "키무라 료헤이",
+		"korean": "남도형"
+	},
+	"talentmaterialtype": ""
+}

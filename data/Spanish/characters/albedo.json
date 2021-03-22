@@ -1,0 +1,28 @@
+{
+	"name": "Albedo",
+	"title": "el Príncipe de la Roca Caliza",
+	"description": "Alquimista en Jefe de los Caballeros de Favonius y Capitán del equipo de investigación. Lo llaman el “Príncipe de la Roca Caliza”.",
+	"rarity": "5",
+	"element": "Geo",
+	"weapontype": "Espada ligera",
+	"substat": "Bono de Daño Geo",
+	"gender": "Masculino",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Caballeros de Favonius",
+	"birthdaymmdd": "9/13",
+	"birthday": "13 de septiembre",
+	"constellation": "Princeps Cretaceus",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Albedo.png"
+	},
+	"cv": {
+		"english": "Khoi Dao",
+		"chinese": "Mace",
+		"japanese": "野岛健儿",
+		"korean": "김명준"
+	},
+	"talentmaterialtype": ""
+}

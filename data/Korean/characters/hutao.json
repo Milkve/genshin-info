@@ -1,0 +1,28 @@
+{
+	"name": "호두",
+	"title": "눈 그친 뒤의 매화향",
+	"description": "「왕생당」의 77대 당주, 젊은 나이지만 리월의 장례를 주관하고 있다",
+	"rarity": "5",
+	"element": "불",
+	"weapontype": "장병기",
+	"substat": "치명타 피해",
+	"gender": "여성",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "왕생당",
+	"birthdaymmdd": "7/15",
+	"birthday": "7월 15일",
+	"constellation": "나비 자리",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Hutao.png"
+	},
+	"cv": {
+		"english": "Brianna Knickerbocker",
+		"chinese": "陶典",
+		"japanese": "타카하시 리에",
+		"korean": "김하루"
+	},
+	"talentmaterialtype": ""
+}

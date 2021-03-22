@@ -1,0 +1,32 @@
+{
+	"name": "「旗桿」",
+	"description": "備用",
+	"weapontype": "長柄武器",
+	"rarity": "3",
+	"baseatk": 10,
+	"substat": "",
+	"subvalue": "",
+	"effectname": "待定",
+	"effect": "擊敗敵人時，恢復{0}生命值。",
+	"r1": [
+		"8%"
+	],
+	"r2": [
+		"10%"
+	],
+	"r3": [
+		"12%"
+	],
+	"r4": [
+		"14%"
+	],
+	"r5": [
+		"16%"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Flagpole.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Flagpole_Awaken.png"
+	},
+	"url": ""
+}

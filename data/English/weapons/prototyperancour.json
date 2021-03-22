@@ -1,0 +1,33 @@
+{
+	"name": "Prototype Rancour",
+	"description": "An ancient longsword discovered in the Blackcliff Forge that cuts through rocks like a hot knife through butter.",
+	"weapontype": "Sword",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "Physical DMG Bonus",
+	"subvalue": "7.5",
+	"effectname": "Smashed Stone",
+	"effect": "On hit, Normal or Charged Attacks increase ATK and DEF by {0} for 6s. Max 4 stacks. This effect can only occur once every 0.3s.",
+	"r1": [
+		"4%"
+	],
+	"r2": [
+		"5%"
+	],
+	"r3": [
+		"6%"
+	],
+	"r4": [
+		"7%"
+	],
+	"r5": [
+		"8%"
+	],
+	"weaponmaterialtype": "Mist Veiled Elixir",
+	"images": {
+		"image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Weapon_Prototype_Rancour.png",
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Proto.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Proto_Awaken.png"
+	},
+	"url": "https://genshin-impact.fandom.com/wiki/Prototype_Rancour"
+}

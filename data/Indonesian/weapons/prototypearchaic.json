@@ -1,0 +1,32 @@
+{
+	"name": "Prototype Archaic",
+	"description": "Sebuah greatsword kuno yang ditemukan di Blackcliff Forge. Mempunyai kekuatan ayunan yang luar biasa seolah dapat membelah dimensi.",
+	"weapontype": "Claymore",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "ATK",
+	"subvalue": "6",
+	"effectname": "Crush",
+	"effect": "Saat mengenai musuh, Normal atau Charged Attack memiliki 50% persentase untuk mengakibatkan DMG tambahan sebesar {0} ATK di area kecil. Dapat terpicu setiap 15 detik",
+	"r1": [
+		"240%"
+	],
+	"r2": [
+		"300%"
+	],
+	"r3": [
+		"360%"
+	],
+	"r4": [
+		"420%"
+	],
+	"r5": [
+		"480%"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Proto.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Proto_Awaken.png"
+	},
+	"url": ""
+}

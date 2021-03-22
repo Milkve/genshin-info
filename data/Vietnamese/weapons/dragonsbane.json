@@ -1,0 +1,32 @@
+{
+	"name": "Tai Ương Của Rồng",
+	"description": "Thương dài có rồng cuộn quanh, sắc bén khôn lường. Có thể dễ dàng diệt rồng.",
+	"weapontype": "Vũ Khí Cán Dài",
+	"rarity": "4",
+	"baseatk": 41,
+	"substat": "Tinh Thông Nguyên Tố",
+	"subvalue": "48",
+	"effectname": "Diệt Hỏa Ngưng Thủy",
+	"effect": "Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Thủy hoặc Hỏa tăng {0}.",
+	"r1": [
+		"20%"
+	],
+	"r2": [
+		"24%"
+	],
+	"r3": [
+		"28%"
+	],
+	"r4": [
+		"32%"
+	],
+	"r5": [
+		"36%"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust_Awaken.png"
+	},
+	"url": ""
+}

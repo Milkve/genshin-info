@@ -1,0 +1,32 @@
+{
+	"name": "Albedo",
+	"title": "Kreideprinz",
+	"description": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
+	"rarity": "5",
+	"element": "Geo",
+	"weapontype": "Sword",
+	"substat": "Geo DMG Bonus",
+	"gender": "Male",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Knights of Favonius",
+	"birthdaymmdd": "9/13",
+	"birthday": "September 13",
+	"constellation": "Princeps Cretaceus",
+	"images": {
+		"image": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Character_Albedo_Thumb.png",
+		"card": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Character_Albedo_Card.png",
+		"portrait": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Character_Albedo_Portrait.png",
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Albedo.png"
+	},
+	"cv": {
+		"english": "Khoi Dao",
+		"chinese": "Mace",
+		"japanese": "野島健児",
+		"korean": "김명준"
+	},
+	"talentmaterialtype": "Ballad",
+	"url": "https://genshin-impact.fandom.com/wiki/Albedo"
+}

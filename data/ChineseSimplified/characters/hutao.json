@@ -1,0 +1,28 @@
+{
+	"name": "胡桃",
+	"title": "雪霁梅香",
+	"description": "「往生堂」七十七代堂主，年纪轻轻就已主掌璃月的葬仪事务。",
+	"rarity": "5",
+	"element": "火",
+	"weapontype": "长柄武器",
+	"substat": "暴击伤害",
+	"gender": "女",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "往生堂",
+	"birthdaymmdd": "7/15",
+	"birthday": "7月15日",
+	"constellation": "引蝶座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Hutao.png"
+	},
+	"cv": {
+		"english": "布丽安娜·尼克博克",
+		"chinese": "陶典",
+		"japanese": "高桥李依",
+		"korean": "金贺娄"
+	},
+	"talentmaterialtype": ""
+}

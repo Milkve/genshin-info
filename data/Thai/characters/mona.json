@@ -1,0 +1,28 @@
+{
+	"name": "Mona",
+	"title": "เงาสะท้อนดวงดาว",
+	"description": "หญิงสาวลึกลับผู้เป็นโหรแห่งดวงดาว เรียกตัวเองว่า \"โหรแห่งดวงดาวผู้ยิ่งใหญ่ Mona\" มีความแข็งแกร่งอย่างล้นเหลือ ตามชื่อของเธอ ซึ่งมาพร้อมกับความรู้ และความภาคภูมิใจ",
+	"rarity": "5",
+	"element": "น้ำ",
+	"weapontype": "สื่อเวทย์",
+	"substat": "การฟื้นฟูพลังงาน",
+	"gender": "ผู้หญิง",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Mondstadt",
+	"birthdaymmdd": "8/31",
+	"birthday": "31 สิงหาคม",
+	"constellation": "Astrolabos",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Mona.png"
+	},
+	"cv": {
+		"english": "Felecia Angelle",
+		"chinese": "陈婷婷",
+		"japanese": "小原好美",
+		"korean": "우정신"
+	},
+	"talentmaterialtype": ""
+}

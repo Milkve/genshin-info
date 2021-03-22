@@ -1,0 +1,22 @@
+{
+	"name": "Gran Espada del Guerrero",
+	"description": "Una plancha de hierro resistente que, con la fuerza de voluntad de la persona que la empuñe, puede ser lo suficientemente potente como para romper montañas.",
+	"weapontype": "Mandoble",
+	"rarity": "1",
+	"baseatk": 23,
+	"substat": "",
+	"subvalue": "",
+	"effectname": "",
+	"effect": "",
+	"r1": [],
+	"r2": [],
+	"r3": [],
+	"r4": [],
+	"r5": [],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki_Awaken.png"
+	},
+	"url": ""
+}

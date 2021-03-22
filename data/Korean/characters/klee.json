@@ -1,0 +1,28 @@
+{
+	"name": "클레",
+	"title": "도망치는 태양",
+	"description": "페보니우스 기사단 감금실의 단골손님이자 몬드의 폭파 마스터. 「도망치는 태양」이라고 불린다",
+	"rarity": "5",
+	"element": "불",
+	"weapontype": "법구",
+	"substat": "불 원소 피해 보너스",
+	"gender": "여성",
+	"body": "LOLI",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "페보니우스 기사단",
+	"birthdaymmdd": "7/27",
+	"birthday": "7월 27일",
+	"constellation": "네잎클로버자리",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Klee.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Klee.png"
+	},
+	"cv": {
+		"english": "Poonam Basu",
+		"chinese": "花玲",
+		"japanese": "쿠노 미사키",
+		"korean": "방연지"
+	},
+	"talentmaterialtype": ""
+}

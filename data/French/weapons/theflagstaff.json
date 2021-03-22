@@ -1,0 +1,32 @@
+{
+	"name": "La Hampe",
+	"description": "Réserve",
+	"weapontype": "Arme d'hast",
+	"rarity": "3",
+	"baseatk": 10,
+	"substat": "",
+	"subvalue": "",
+	"effectname": "En attente",
+	"effect": "Restaure {0} des PV après la défaite d'un ennemi.",
+	"r1": [
+		"8 %"
+	],
+	"r2": [
+		"10 %"
+	],
+	"r3": [
+		"12 %"
+	],
+	"r4": [
+		"14 %"
+	],
+	"r5": [
+		"16 %"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Flagpole.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Flagpole_Awaken.png"
+	},
+	"url": ""
+}

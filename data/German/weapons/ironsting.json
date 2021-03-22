@@ -1,0 +1,32 @@
+{
+	"name": "Eisenstich",
+	"description": "Ein dünner, glatter Degen aus fremden Landen, der auf Handelsrouten seinen Weg nach Liyue gefunden hat. Er ist äußerst leicht und spitz.",
+	"weapontype": "Einhänder",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Elementarkunde",
+	"subvalue": "36",
+	"effectname": "Energieschubstachel",
+	"effect": "Erhöht den von dieser Figur verursachten Schaden nach Verursachen von Elementar-SCH 6 s lang um {0}, 2-fach stapelbar. 1 s Abklingzeit.",
+	"r1": [
+		"6 %"
+	],
+	"r2": [
+		"7,5 %"
+	],
+	"r3": [
+		"9 %"
+	],
+	"r4": [
+		"10,5 %"
+	],
+	"r5": [
+		"12 %"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Exotic.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Exotic_Awaken.png"
+	},
+	"url": ""
+}

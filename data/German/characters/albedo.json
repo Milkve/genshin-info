@@ -1,0 +1,28 @@
+{
+	"name": "Albedo",
+	"title": "Kreideprinz",
+	"description": "Der Hauptalchimist des Ordo Favonius und gleichzeitig der Anführer der Ermittlungstruppe. Er ist wahrhaft ein Genie und wird als der „Kreideprinz“ bezeichnet.",
+	"rarity": "5",
+	"element": "Geo",
+	"weapontype": "Einhänder",
+	"substat": "Geo-SCH-Bonus",
+	"gender": "Männlich",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Ordo Favonius",
+	"birthdaymmdd": "9/13",
+	"birthday": "13. September",
+	"constellation": "Princeps Cretaceus",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Albedo.png"
+	},
+	"cv": {
+		"english": "Khoi Dao",
+		"chinese": "Mace",
+		"japanese": "野島健児",
+		"korean": "김명준"
+	},
+	"talentmaterialtype": ""
+}

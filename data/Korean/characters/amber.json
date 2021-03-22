@@ -1,0 +1,28 @@
+{
+	"name": "엠버",
+	"title": "비행 챔피언",
+	"description": "항상 활력이 넘치는 여자아이. 기사단에서 가장 우수하며 최후의 정찰 기사이기도 하다",
+	"rarity": "4",
+	"element": "불",
+	"weapontype": "활",
+	"substat": "공격력",
+	"gender": "여성",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "페보니우스 기사단",
+	"birthdaymmdd": "8/10",
+	"birthday": "8월 10일",
+	"constellation": "토끼자리",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ambor.png"
+	},
+	"cv": {
+		"english": "Kelly Baskin",
+		"chinese": "蔡书瑾",
+		"japanese": "이와미 마나카",
+		"korean": "김연우"
+	},
+	"talentmaterialtype": ""
+}

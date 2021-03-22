@@ -1,0 +1,28 @@
+{
+	"name": "Noëlle",
+	"title": "Fleur chevaleresque",
+	"description": "Une jeune fille travaillant comme servante à l'Ordre de Favonius. Elle a toujours rêvé de devenir un jour chevalier.",
+	"rarity": "4",
+	"element": "Géo",
+	"weapontype": "Épée à deux mains",
+	"substat": "DÉF",
+	"gender": "Femme",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Ordre de Favonius",
+	"birthdaymmdd": "3/21",
+	"birthday": "21 mars",
+	"constellation": "Parma Cordis",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Noel.png"
+	},
+	"cv": {
+		"english": "Laura Faye Smith",
+		"chinese": "宴宁",
+		"japanese": "高尾奏音",
+		"korean": "이보희"
+	},
+	"talentmaterialtype": ""
+}

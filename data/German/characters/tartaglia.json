@@ -1,0 +1,28 @@
+{
+	"name": "Tartaglia",
+	"title": "„Der Graf“",
+	"description": "Der Letzte unter den Elf der Fatui, der Graf genannt, mit großen Erfolgen auf dem Schlachtfeld.",
+	"rarity": "5",
+	"element": "Hydro",
+	"weapontype": "Bogen",
+	"substat": "Hydro-SCH-Bonus",
+	"gender": "Männlich",
+	"body": "MALE",
+	"association": "FATUI",
+	"region": "Snezhnaya",
+	"affiliation": "Fatui",
+	"birthdaymmdd": "7/20",
+	"birthday": "20. Juli",
+	"constellation": "Monoceros Caeli",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Tartaglia.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Tartaglia.png"
+	},
+	"cv": {
+		"english": "Griffin Burns",
+		"chinese": "鱼冻",
+		"japanese": "木村良平",
+		"korean": "남도형"
+	},
+	"talentmaterialtype": ""
+}

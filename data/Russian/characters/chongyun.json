@@ -1,0 +1,28 @@
+{
+	"name": "Чун Юнь",
+	"title": "Морозная пылкость",
+	"description": "Молодой экзорцист из семьи экзорцистов. Изо всех сил старается подавить свою энергию Ян.",
+	"rarity": "4",
+	"element": "Крио",
+	"weapontype": "Двуручное",
+	"substat": "Сила атаки",
+	"gender": "мужчина",
+	"body": "BOY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Ли Юэ",
+	"birthdaymmdd": "9/7",
+	"birthday": "7 сентября",
+	"constellation": "Тяжесть Небес",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Chongyun.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Chongyun.png"
+	},
+	"cv": {
+		"english": "Beau Bridgland",
+		"chinese": "kinsen",
+		"japanese": "斉藤壮馬",
+		"korean": "양정화"
+	},
+	"talentmaterialtype": ""
+}

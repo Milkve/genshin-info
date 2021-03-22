@@ -1,0 +1,28 @@
+{
+	"name": "Сян Лин",
+	"title": "Миллион вкусов",
+	"description": "Знаменитый шеф-повар Ли Юэ. Она со всей страстью относится к приготовлению еды, а её острые блюда известны на весь Тейват.",
+	"rarity": "4",
+	"element": "Пиро",
+	"weapontype": "Древковое",
+	"substat": "Мастерство стихий",
+	"gender": "женский",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Ресторан «Народный выбор»",
+	"birthdaymmdd": "11/2",
+	"birthday": "2 ноября",
+	"constellation": "Поварской Черпак",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xiangling.png"
+	},
+	"cv": {
+		"english": "Jackie Lastra",
+		"chinese": "小N",
+		"japanese": "小澤亜李",
+		"korean": "윤아영"
+	},
+	"talentmaterialtype": ""
+}

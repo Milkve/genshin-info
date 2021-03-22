@@ -1,0 +1,28 @@
+{
+	"name": "Mona",
+	"title": "Astral Reflection",
+	"description": "Seorang astrolog yang menyebut dirinya sendiri sebagai \"Astrologist Mona Megistus\", dan memiliki kemampuan yang sesuai dengan julukannya. Kepandaiannya setara dengan keangkuhannya.",
+	"rarity": "5",
+	"element": "Hydro",
+	"weapontype": "Catalyst",
+	"substat": "Energy Recharge",
+	"gender": "Perempuan",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Mondstadt",
+	"birthdaymmdd": "8/31",
+	"birthday": "31 Agustus",
+	"constellation": "Astrolabos",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Mona.png"
+	},
+	"cv": {
+		"english": "Felecia Angelle",
+		"chinese": "陈婷婷",
+		"japanese": "小原好美",
+		"korean": "우정신"
+	},
+	"talentmaterialtype": ""
+}

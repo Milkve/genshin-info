@@ -1,0 +1,28 @@
+{
+	"name": "Saccharose",
+	"title": "Harmlos und süß",
+	"description": "Eine Alchimistin, die sich für regelrecht alles um sie herum interessiert. Darüber hinaus erforscht sie die sogenannte Bio-Alchimie.",
+	"rarity": "4",
+	"element": "Anemo",
+	"weapontype": "Katalysator",
+	"substat": "Anemo-SCH-Bonus",
+	"gender": "Weiblich",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Ordo Favonius",
+	"birthdaymmdd": "11/26",
+	"birthday": "26. November",
+	"constellation": "Ampulla",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Sucrose.png"
+	},
+	"cv": {
+		"english": "Valeria Rodriguez",
+		"chinese": "小敢",
+		"japanese": "藤田茜",
+		"korean": "김하영"
+	},
+	"talentmaterialtype": ""
+}

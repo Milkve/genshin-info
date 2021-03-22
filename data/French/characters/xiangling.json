@@ -1,0 +1,28 @@
+{
+	"name": "Xiangling",
+	"title": "Cordon-bleu du peuple",
+	"description": "Une célèbre cheffe cuisinière originaire de Liyue, connue pour ses plats épicés.",
+	"rarity": "4",
+	"element": "Pyro",
+	"weapontype": "Arme d'hast",
+	"substat": "Maîtrise élémentaire",
+	"gender": "Femme",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Restaurant Wanmin",
+	"birthdaymmdd": "11/2",
+	"birthday": "2 novembre",
+	"constellation": "Ladle",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xiangling.png"
+	},
+	"cv": {
+		"english": "Jackie Lastra",
+		"chinese": "小N",
+		"japanese": "小澤亜李",
+		"korean": "윤아영"
+	},
+	"talentmaterialtype": ""
+}

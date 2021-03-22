@@ -1,0 +1,28 @@
+{
+	"name": "阿贝多",
+	"title": "白垩之子",
+	"description": "西风骑士团首席炼金术士兼调查小队队长，被称做「白垩之子」的天才。",
+	"rarity": "5",
+	"element": "岩",
+	"weapontype": "单手剑",
+	"substat": "岩元素伤害加成",
+	"gender": "男",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "西风骑士团",
+	"birthdaymmdd": "9/13",
+	"birthday": "9月13日",
+	"constellation": "白垩之子座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Albedo.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Albedo.png"
+	},
+	"cv": {
+		"english": "科伊·道",
+		"chinese": "Mace",
+		"japanese": "野岛健儿",
+		"korean": "金明俊"
+	},
+	"talentmaterialtype": ""
+}

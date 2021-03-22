@@ -1,0 +1,28 @@
+{
+	"name": "ウェンティ",
+	"title": "風色の詩人",
+	"description": "モンドの街にいる数多くの自由な吟遊詩人の一人。",
+	"rarity": "5",
+	"element": "風",
+	"weapontype": "弓",
+	"substat": "元素チャージ効率",
+	"gender": "男",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "モンド城",
+	"birthdaymmdd": "6/16",
+	"birthday": "6月16日",
+	"constellation": "歌仙座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Venti.png"
+	},
+	"cv": {
+		"english": "Erika Harlacher",
+		"chinese": "喵酱",
+		"japanese": "村瀬歩",
+		"korean": "정유정"
+	},
+	"talentmaterialtype": ""
+}

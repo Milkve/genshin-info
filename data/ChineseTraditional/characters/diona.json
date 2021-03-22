@@ -1,0 +1,28 @@
+{
+	"name": "迪奧娜",
+	"title": "貓尾特調",
+	"description": "遺傳了稀薄「非人」血統的少女，「貓尾酒館」的超人氣調酒師。",
+	"rarity": "4",
+	"element": "冰",
+	"weapontype": "弓",
+	"substat": "冰元素傷害加成",
+	"gender": "女",
+	"body": "LOLI",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "貓尾酒館",
+	"birthdaymmdd": "1/18",
+	"birthday": "1月18日",
+	"constellation": "小貓座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diona.png"
+	},
+	"cv": {
+		"english": "Dina Sherman",
+		"chinese": "諾亞",
+		"japanese": "井澤詩織",
+		"korean": "우정신"
+	},
+	"talentmaterialtype": ""
+}

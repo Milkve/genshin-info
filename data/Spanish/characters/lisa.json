@@ -1,0 +1,28 @@
+{
+	"name": "Lisa",
+	"title": "la Bruja de las Rosas",
+	"description": "La perezosa pero sabia bibliotecaria de los Caballeros de Favonius. En realidad, fue considerada por la Academia de Sumeru como su graduada más sobresaliente en los últimos dos siglos.",
+	"rarity": "4",
+	"element": "Electro",
+	"weapontype": "Catalizador",
+	"substat": "Maestría Elemental",
+	"gender": "Femenino",
+	"body": "LADY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Caballeros de Favonius",
+	"birthdaymmdd": "6/9",
+	"birthday": "9 de junio",
+	"constellation": "Tempus Fugit",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Lisa.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Lisa.png"
+	},
+	"cv": {
+		"english": "Mara Junot",
+		"chinese": "钟可",
+		"japanese": "田中理恵",
+		"korean": "박고운"
+	},
+	"talentmaterialtype": ""
+}

@@ -1,0 +1,28 @@
+{
+	"name": "Xiangling",
+	"title": "สุดยอดนักทำอาหาร",
+	"description": "เชฟชื่อดังจาก Liyue ผู้หลงใหล ในการปรุงอาหารเป็นอย่างมาก ซึ่งอาหารรสเผ็ดของเธอนั้น ช่างโดดเด่นไม่เป็นสองรองใคร",
+	"rarity": "4",
+	"element": "ไฟ",
+	"weapontype": "หอก",
+	"substat": "ความชำนาญธาตุ",
+	"gender": "ผู้หญิง",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "ภัตตาคาร Wanmin",
+	"birthdaymmdd": "11/2",
+	"birthday": "2 พฤศจิกายน",
+	"constellation": "Ladle",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiangling.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xiangling.png"
+	},
+	"cv": {
+		"english": "Jackie Lastra",
+		"chinese": "小N",
+		"japanese": "小澤亜李",
+		"korean": "윤아영"
+	},
+	"talentmaterialtype": ""
+}

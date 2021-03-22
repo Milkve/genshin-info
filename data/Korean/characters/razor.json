@@ -1,0 +1,28 @@
+{
+	"name": "레이저",
+	"title": "늑대소년",
+	"description": "몬드 지역의 울프 영지에서 사람과 도시를 피해 늑대와 함께 생활하는 소년. 예리한 직감과 민첩한 몸놀림을 가지고 있다",
+	"rarity": "4",
+	"element": "번개",
+	"weapontype": "양손검",
+	"substat": "물리 피해 보너스",
+	"gender": "남성",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "울프 영지",
+	"birthdaymmdd": "9/9",
+	"birthday": "9월 9일",
+	"constellation": "이리자리",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Razor.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Razor.png"
+	},
+	"cv": {
+		"english": "Todd Haberkorn",
+		"chinese": "周帅",
+		"japanese": "우치야마 코우키",
+		"korean": "김서영"
+	},
+	"talentmaterialtype": ""
+}

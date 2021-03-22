@@ -1,0 +1,32 @@
+{
+	"name": "Arco Real",
+	"description": "Un viejo arco largo de la aristocracia que en el pasado gobernó Mondstadt. Innumerables generaciones después, la cuerda del arco sigue tensa y puede disparar flechas rápidamente.",
+	"weapontype": "Arco",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "ATQ",
+	"subvalue": "9",
+	"effectname": "Concentración",
+	"effect": "Al dañar a un enemigo, aumenta la Prob. CRIT en un {0}. Puede acumularse hasta 5 veces. Una vez asestado un golpe CRIT, las acumulaciones de Concentración se reiniciarán.",
+	"r1": [
+		"8%"
+	],
+	"r2": [
+		"10%"
+	],
+	"r3": [
+		"12%"
+	],
+	"r4": [
+		"14%"
+	],
+	"r5": [
+		"16%"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Theocrat.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Theocrat_Awaken.png"
+	},
+	"url": ""
+}

@@ -1,0 +1,28 @@
+{
+	"name": "七七",
+	"title": "凍凍回魂夜",
+	"description": "藥廬「不卜廬」的採藥姑娘兼學徒，面色蒼白如紙的不死之人。話很少，也沒有什麼表情。",
+	"rarity": "5",
+	"element": "冰",
+	"weapontype": "單手劍",
+	"substat": "治療加成",
+	"gender": "女",
+	"body": "LOLI",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "不卜廬",
+	"birthdaymmdd": "3/3",
+	"birthday": "3月3日",
+	"constellation": "三清鈴座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Qiqi.png"
+	},
+	"cv": {
+		"english": "Christie Cate",
+		"chinese": "宴宁",
+		"japanese": "田村ゆかり",
+		"korean": "이슬"
+	},
+	"talentmaterialtype": ""
+}

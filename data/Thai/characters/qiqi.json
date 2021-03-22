@@ -1,0 +1,28 @@
+{
+	"name": "Qiqi",
+	"title": "ความหนาวเย็นคืนชีพ",
+	"description": "คนเก็บสมุนไพรและเด็กฝึกงาน ของร้านยา Bubu Pharmacy มีใบหน้าที่ขาวซีดราวกับกระดาษ ไม่ค่อยพูดไม่ค่อยจา และก็ไม่ค่อยแสดงอารมณ์ด้วย",
+	"rarity": "5",
+	"element": "น้ำแข็ง",
+	"weapontype": "ดาบ",
+	"substat": "โบนัสการรักษา",
+	"gender": "ผู้หญิง",
+	"body": "LOLI",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Bubu Pharmacy",
+	"birthdaymmdd": "3/3",
+	"birthday": "3 มีนาคม",
+	"constellation": "Pristina Nola",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Qiqi.png"
+	},
+	"cv": {
+		"english": "Christie Cate",
+		"chinese": "宴宁",
+		"japanese": "田村ゆかり",
+		"korean": "이슬"
+	},
+	"talentmaterialtype": ""
+}

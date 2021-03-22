@@ -1,0 +1,28 @@
+{
+	"name": "Xinyan",
+	"title": "Melodia Incandescente",
+	"description": "A única roqueira do Porto de Liyue, ela usa sua música e canções apaixonadas para resistir aos preconceitos.",
+	"rarity": "4",
+	"element": "Pyro",
+	"weapontype": "Espadão",
+	"substat": "ATQ",
+	"gender": "Feminino",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Porto de Liyue",
+	"birthdaymmdd": "10/16",
+	"birthday": "16 de outubro",
+	"constellation": "Fila Ignium",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xinyan.png"
+	},
+	"cv": {
+		"english": "Laura Stahl",
+		"chinese": "王雅欣",
+		"japanese": "たかはし智秋",
+		"korean": "김채하"
+	},
+	"talentmaterialtype": ""
+}

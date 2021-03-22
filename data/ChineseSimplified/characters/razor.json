@@ -1,0 +1,28 @@
+{
+	"name": "雷泽",
+	"title": "狼少年",
+	"description": "住在蒙德地区奔狼领，远离城市与人群，和狼一同生活的少年。直觉锐利，身姿迅捷。",
+	"rarity": "4",
+	"element": "雷",
+	"weapontype": "双手剑",
+	"substat": "物理伤害加成",
+	"gender": "男",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "奔狼领",
+	"birthdaymmdd": "9/9",
+	"birthday": "9月9日",
+	"constellation": "小狼座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Razor.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Razor.png"
+	},
+	"cv": {
+		"english": "托德·哈伯空",
+		"chinese": "周帅",
+		"japanese": "内山昂辉",
+		"korean": "金徐暎"
+	},
+	"talentmaterialtype": ""
+}

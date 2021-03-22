@@ -1,0 +1,18 @@
+{
+	"namemap": {
+		"fivestar.json": "Five Stars",
+		"fourstar.json": "Four Stars",
+		"onestar.json": "One Stars",
+		"threestar.json": "Three Stars",
+		"twostar.json": "Two Stars"
+	},
+	"names": {
+		"Five Stars": "fivestar.json",
+		"Four Stars": "fourstar.json",
+		"One Stars": "onestar.json",
+		"Three Stars": "threestar.json",
+		"Two Stars": "twostar.json"
+	},
+	"aliases": {},
+	"categories": {}
+}

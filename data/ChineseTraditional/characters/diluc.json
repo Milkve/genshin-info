@@ -1,0 +1,28 @@
+{
+	"name": "迪盧克",
+	"title": "晨曦的暗面",
+	"description": "坐擁蒙德大半酒業的貴公子，財力、人望、能力都令人無法小覷。",
+	"rarity": "5",
+	"element": "火",
+	"weapontype": "雙手劍",
+	"substat": "暴擊率",
+	"gender": "男",
+	"body": "MALE",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "晨曦酒莊",
+	"birthdaymmdd": "4/30",
+	"birthday": "4月30日",
+	"constellation": "夜梟座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diluc.png"
+	},
+	"cv": {
+		"english": "Sean Chiplock",
+		"chinese": "马洋",
+		"japanese": "小野賢章",
+		"korean": "최승훈"
+	},
+	"talentmaterialtype": ""
+}

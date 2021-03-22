@@ -1,0 +1,22 @@
+{
+	"name": "Lame du mercenaire",
+	"description": "Un espadon qui a fait des ravages sur bien des champs de bataille. Il a vu des jours meilleurs, mais aussi bien pires.",
+	"weapontype": "Épée à deux mains",
+	"rarity": "2",
+	"baseatk": 33,
+	"substat": "",
+	"subvalue": "",
+	"effectname": "",
+	"effect": "",
+	"r1": [],
+	"r2": [],
+	"r3": [],
+	"r4": [],
+	"r5": [],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Oyaji.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Oyaji_Awaken.png"
+	},
+	"url": ""
+}

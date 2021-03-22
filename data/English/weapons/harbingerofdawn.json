@@ -1,0 +1,33 @@
+{
+	"name": "Harbinger of Dawn",
+	"description": "A sword that once shone like the sun. The wielder of this sword will be blessed with a \"feel-good\" buff. The reflective material on the blade has long worn off.",
+	"weapontype": "Sword",
+	"rarity": "3",
+	"baseatk": 39,
+	"substat": "CRIT DMG",
+	"subvalue": "10.2",
+	"effectname": "Vigorous",
+	"effect": "When HP is above 90%, increases CRIT Rate by {0}.",
+	"r1": [
+		"14%"
+	],
+	"r2": [
+		"17.5%"
+	],
+	"r3": [
+		"21%"
+	],
+	"r4": [
+		"24.5%"
+	],
+	"r5": [
+		"28%"
+	],
+	"weaponmaterialtype": "Boreal Wolf",
+	"images": {
+		"image": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Weapon_Harbinger_of_Dawn.png",
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dawn.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Dawn_Awaken.png"
+	},
+	"url": "https://genshin-impact.fandom.com/wiki/Harbinger_of_Dawn"
+}

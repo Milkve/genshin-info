@@ -1,0 +1,28 @@
+{
+	"name": "Qiqi",
+	"title": "Renaissance gelée",
+	"description": "Qiqi est une jeune apprentie du Cottage Bubu, en charge notamment de la récolte des herbes médicinales. C'est également un zombie au teint blafard et aux mots comptés.",
+	"rarity": "5",
+	"element": "Cryo",
+	"weapontype": "Épée à une main",
+	"substat": "Bonus de soins",
+	"gender": "Femme",
+	"body": "LOLI",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Cottage Bubu",
+	"birthdaymmdd": "3/3",
+	"birthday": "3 mars",
+	"constellation": "Pristina Nola",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Qiqi.png"
+	},
+	"cv": {
+		"english": "Christie Cate",
+		"chinese": "宴宁",
+		"japanese": "田村ゆかり",
+		"korean": "이슬"
+	},
+	"talentmaterialtype": ""
+}

@@ -1,0 +1,28 @@
+{
+	"name": "Keqing",
+	"title": "Donnerwetter",
+	"description": "Der Yuheng unter den Qixing von Liyue. Sie hat einiges zur Regentschaft von Rex Lapis, der sich nur selten zeigt, zu sagen. Man muss aber gestehen, dass Götter solche Menschen zu schätzen wissen.",
+	"rarity": "5",
+	"element": "Elektro",
+	"weapontype": "Einhänder",
+	"substat": "KSCH",
+	"gender": "Weiblich",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Qixing von Liyue",
+	"birthdaymmdd": "11/20",
+	"birthday": "20. November",
+	"constellation": "Trulla Cementarii",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Keqing.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Keqing.png"
+	},
+	"cv": {
+		"english": "Kayli Mills",
+		"chinese": "谢莹",
+		"japanese": "喜多村英梨",
+		"korean": "이보희"
+	},
+	"talentmaterialtype": ""
+}

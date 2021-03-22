@@ -1,0 +1,37 @@
+{
+	"name": "Festering Desire",
+	"description": "ดาบที่ชั่วร้ายนี้ดูเหมือนจะกระหายอยากเอาชีวิต มันมีพิษที่สามารถกัดกร่อนได้แม้กระทั่งมังกร",
+	"weapontype": "ดาบ",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "การฟื้นฟูพลังงาน",
+	"subvalue": "10",
+	"effectname": "Undying Admiration",
+	"effect": "สกิลธาตุสร้างความเสียหายเพิ่มขึ้น {0} และอัตราคริของสกิลธาตุเพิ่มขึ้น {1}",
+	"r1": [
+		"16%",
+		"6%"
+	],
+	"r2": [
+		"20%",
+		"7.5%"
+	],
+	"r3": [
+		"24%",
+		"9%"
+	],
+	"r4": [
+		"28%",
+		"10.5%"
+	],
+	"r5": [
+		"32%",
+		"12%"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Magnum.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Magnum_Awaken.png"
+	},
+	"url": ""
+}

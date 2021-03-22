@@ -1,0 +1,32 @@
+{
+	"name": "试作古华",
+	"description": "黑岩厂中秘藏的古老大刀。挥舞时，仿佛连空间本身也要被一刀两断。",
+	"weapontype": "双手剑",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "攻击力",
+	"subvalue": "6",
+	"effectname": "粉碎",
+	"effect": "普通攻击和重击命中时，有50%的概率对小范围内的敌人造成{0}攻击力的额外伤害。该效果每15秒只能触发一次。",
+	"r1": [
+		"240%"
+	],
+	"r2": [
+		"300%"
+	],
+	"r3": [
+		"360%"
+	],
+	"r4": [
+		"420%"
+	],
+	"r5": [
+		"480%"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Proto.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Proto_Awaken.png"
+	},
+	"url": ""
+}

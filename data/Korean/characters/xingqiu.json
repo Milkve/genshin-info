@@ -1,0 +1,28 @@
+{
+	"name": "행추",
+	"title": "의기충천",
+	"description": "책을 파는 노점에서 자주 보이는 소년. 손에는 장검, 가슴엔 협객의 마음을 품고 있다",
+	"rarity": "4",
+	"element": "물",
+	"weapontype": "한손검",
+	"substat": "공격력",
+	"gender": "남성",
+	"body": "BOY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "비운 상회",
+	"birthdaymmdd": "10/9",
+	"birthday": "10월 9일",
+	"constellation": "금직자리",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xingqiu.png"
+	},
+	"cv": {
+		"english": "Cristina Vee Valenzuela",
+		"chinese": "唐雅菁",
+		"japanese": "미나가와 쥰코",
+		"korean": "곽규미"
+	},
+	"talentmaterialtype": ""
+}

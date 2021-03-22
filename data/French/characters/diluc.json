@@ -1,0 +1,28 @@
+{
+	"name": "Diluc",
+	"title": "Ombre de l'Aurore",
+	"description": "Un jeune noble possédant la plupart des entreprises du vin de Mondstadt ; nul ne saurait sous-estimer sa richesse, sa réputation et ses capacités.",
+	"rarity": "5",
+	"element": "Pyro",
+	"weapontype": "Épée à deux mains",
+	"substat": "Taux CRIT",
+	"gender": "Homme",
+	"body": "MALE",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Domaine de l'Aurore",
+	"birthdaymmdd": "4/30",
+	"birthday": "30 avril",
+	"constellation": "Noctua",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diluc.png"
+	},
+	"cv": {
+		"english": "Sean Chiplock",
+		"chinese": "马洋",
+		"japanese": "小野賢章",
+		"korean": "최승훈"
+	},
+	"talentmaterialtype": ""
+}

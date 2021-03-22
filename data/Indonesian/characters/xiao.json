@@ -1,0 +1,28 @@
+{
+	"name": "Xiao",
+	"title": "Vigilant Yaksha",
+	"description": "Yaksha, sesosok makhluk abadi yang juga memiliki julukan \"Conqueror of Demons\" atau \"Guardian Yaksha\".",
+	"rarity": "5",
+	"element": "Anemo",
+	"weapontype": "Senjata Polearm",
+	"substat": "CRIT Rate",
+	"gender": "Pria",
+	"body": "BOY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Liyue Adeptus",
+	"birthdaymmdd": "4/17",
+	"birthday": "17 April",
+	"constellation": "Alatus Nemeseos",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xiao.png"
+	},
+	"cv": {
+		"english": "Laila Berzins",
+		"chinese": "kinsen",
+		"japanese": "松岡禎丞",
+		"korean": "정유미"
+	},
+	"talentmaterialtype": ""
+}

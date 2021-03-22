@@ -1,0 +1,28 @@
+{
+	"name": "Hu Tao",
+	"title": "Fragrance nivale",
+	"description": "La 77e directrice du Funérarium Wangsheng, qui redonne un coup de jeune à la gestion des affaires funéraires de Liyue.",
+	"rarity": "5",
+	"element": "Pyro",
+	"weapontype": "Arme d'hast",
+	"substat": "DGT CRIT",
+	"gender": "Femme",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Funérarium Wangsheng",
+	"birthdaymmdd": "7/15",
+	"birthday": "15 juillet",
+	"constellation": "Papilio Charontis",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Hutao.png"
+	},
+	"cv": {
+		"english": "Brianna Knickerbocker",
+		"chinese": "陶典",
+		"japanese": "高桥李依",
+		"korean": "김하루"
+	},
+	"talentmaterialtype": ""
+}

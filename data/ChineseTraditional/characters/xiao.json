@@ -1,0 +1,28 @@
+{
+	"name": "魈",
+	"title": "護法夜叉",
+	"description": "守護璃月的仙人，「夜叉」。美號「降魔大聖」，妙稱「護法夜叉大將」。",
+	"rarity": "5",
+	"element": "風",
+	"weapontype": "長柄武器",
+	"substat": "暴擊率",
+	"gender": "男",
+	"body": "BOY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "璃月仙人",
+	"birthdaymmdd": "4/17",
+	"birthday": "4月17日",
+	"constellation": "金翅鵬王座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xiao.png"
+	},
+	"cv": {
+		"english": "Laila Berzins",
+		"chinese": "kinsen",
+		"japanese": "松岡禎丞",
+		"korean": "심규혁"
+	},
+	"talentmaterialtype": ""
+}

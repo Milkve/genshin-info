@@ -1,0 +1,28 @@
+{
+	"name": "Qiqi",
+	"title": "Đêm Hồn Về Lạnh Giá",
+	"description": "Một cô nương hái thuốc kiêm học đồ tại lò thuốc, sắc mặt trắng toát như cương thi. Rất ít nói chuyện, cũng không có biểu cảm gì.",
+	"rarity": "5",
+	"element": "Băng",
+	"weapontype": "Kiếm Đơn",
+	"substat": "Tăng Trị Liệu",
+	"gender": "nữ",
+	"body": "LOLI",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Nhà Thuốc Bubu",
+	"birthdaymmdd": "3/3",
+	"birthday": "3 tháng 3",
+	"constellation": "Tam Thanh Linh",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Qiqi.png"
+	},
+	"cv": {
+		"english": "Christie Cate",
+		"chinese": "宴宁",
+		"japanese": "田村ゆかり",
+		"korean": "이슬"
+	},
+	"talentmaterialtype": ""
+}

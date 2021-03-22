@@ -1,0 +1,28 @@
+{
+	"name": "Диона",
+	"title": "Кошкин коктейль",
+	"description": "Молодая девушка, унаследовавшая остаточную долю нечеловеческой крови. Она невероятно популярный бармен таверны «Кошкин хвост».",
+	"rarity": "4",
+	"element": "Крио",
+	"weapontype": "Стрелковое",
+	"substat": "Бонус Крио урона",
+	"gender": "женский",
+	"body": "LOLI",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Таверна «Кошкин хвост»",
+	"birthdaymmdd": "1/18",
+	"birthday": "18 января",
+	"constellation": "Милый Котёнок",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diona.png"
+	},
+	"cv": {
+		"english": "Dina Sherman",
+		"chinese": "诺亚",
+		"japanese": "井澤詩織",
+		"korean": "우정신"
+	},
+	"talentmaterialtype": ""
+}

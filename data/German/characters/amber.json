@@ -1,0 +1,28 @@
+{
+	"name": "Amber",
+	"title": "Flugmeister",
+	"description": "Ein Mädchen voller Lebenskraft und gleichzeitig die beste, wenn auch einzig verbliebene, Kundschafterin des Ordo Favonius.",
+	"rarity": "4",
+	"element": "Pyro",
+	"weapontype": "Bogen",
+	"substat": "ANG",
+	"gender": "Weiblich",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Ordo Favonius",
+	"birthdaymmdd": "8/10",
+	"birthday": "10. August",
+	"constellation": "Lepus",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ambor.png"
+	},
+	"cv": {
+		"english": "Kelly Baskin",
+		"chinese": "蔡书瑾",
+		"japanese": "石見舞菜香",
+		"korean": "김연우"
+	},
+	"talentmaterialtype": ""
+}

@@ -1,0 +1,28 @@
+{
+	"name": "Razor",
+	"title": "Lobo Jovem",
+	"description": "Um garoto que vive entre os lobos no Reino dos Lobos em Mondstadt, longe da civilização. É ágil como um relâmpago.",
+	"rarity": "4",
+	"element": "Electro",
+	"weapontype": "Espadão",
+	"substat": "Bônus de Dano Físico",
+	"gender": "Masculino",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Reino dos Lobos",
+	"birthdaymmdd": "9/9",
+	"birthday": "9 de setembro",
+	"constellation": "Lupus Menor",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Razor.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Razor.png"
+	},
+	"cv": {
+		"english": "Todd Haberkorn",
+		"chinese": "周帅",
+		"japanese": "内山昂輝",
+		"korean": "김서영"
+	},
+	"talentmaterialtype": ""
+}

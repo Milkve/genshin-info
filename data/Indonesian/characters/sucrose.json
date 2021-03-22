@@ -1,0 +1,28 @@
+{
+	"name": "Sucrose",
+	"title": "Harmless Sweetie",
+	"description": "Seorang alkemis dipenuhi dengan rasa ingin tahu tentang semua hal. Dia meneliti bio-alkimia.",
+	"rarity": "4",
+	"element": "Anemo",
+	"weapontype": "Catalyst",
+	"substat": "Anemo DMG Bonus",
+	"gender": "Perempuan",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Knights of Favonius",
+	"birthdaymmdd": "11/26",
+	"birthday": "26 November",
+	"constellation": "Ampulla",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Sucrose.png"
+	},
+	"cv": {
+		"english": "Valeria Rodriguez",
+		"chinese": "小敢",
+		"japanese": "藤田茜",
+		"korean": "김하영"
+	},
+	"talentmaterialtype": ""
+}

@@ -1,0 +1,28 @@
+{
+	"name": "Дилюк",
+	"title": "Тёмный рассвет",
+	"description": "Магнат, построивший непревзойдённую винную империю в Мондштадте.",
+	"rarity": "5",
+	"element": "Пиро",
+	"weapontype": "Двуручное",
+	"substat": "Шанс крит. попадания",
+	"gender": "мужчина",
+	"body": "MALE",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Винокурня «Рассвет»",
+	"birthdaymmdd": "4/30",
+	"birthday": "30 апреля",
+	"constellation": "Мудрая Сова",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diluc.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Diluc.png"
+	},
+	"cv": {
+		"english": "Sean Chiplock",
+		"chinese": "马洋",
+		"japanese": "小野賢章",
+		"korean": "최승훈"
+	},
+	"talentmaterialtype": ""
+}

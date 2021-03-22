@@ -1,0 +1,22 @@
+{
+	"name": "Grimoire de poche",
+	"description": "Un petit carnet rempli de notes concernant un examen de magie.",
+	"weapontype": "Catalyseur",
+	"rarity": "2",
+	"baseatk": 33,
+	"substat": "",
+	"subvalue": "",
+	"effectname": "",
+	"effect": "",
+	"r1": [],
+	"r2": [],
+	"r3": [],
+	"r4": [],
+	"r5": [],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pocket.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pocket_Awaken.png"
+	},
+	"url": ""
+}

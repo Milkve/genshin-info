@@ -1,0 +1,28 @@
+{
+	"name": "Ganyu",
+	"title": "Mondhüter",
+	"description": "Eine Sekretärin im Yuehai-Pavillon, in deren Adern das Blut eines Qilins, einer göttlichen Bestie, fließt.",
+	"rarity": "5",
+	"element": "Kryo",
+	"weapontype": "Bogen",
+	"substat": "KSCH",
+	"gender": "Weiblich",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Yuehai-Pavillon",
+	"birthdaymmdd": "12/2",
+	"birthday": "2. Dezember",
+	"constellation": "Sinae Unicornis",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Ganyu.png"
+	},
+	"cv": {
+		"english": "Jennifer Losi",
+		"chinese": "林簌",
+		"japanese": "上田麗奈",
+		"korean": "김선혜"
+	},
+	"talentmaterialtype": ""
+}

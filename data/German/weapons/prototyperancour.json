@@ -1,0 +1,32 @@
+{
+	"name": "Steinschneider-Prototyp",
+	"description": "Ein uraltes Langschwert aus der Schwarzsteinschmiede, das durch Felsen gleitet, als wären sie Butter.",
+	"weapontype": "Einhänder",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "Physischer SCH-Bonus",
+	"subvalue": "7.5",
+	"effectname": "Trümmer",
+	"effect": "Erhöht den ANG und die VTD bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um {0}, 4-fach stapelbar. 0,3 s Abklingzeit.",
+	"r1": [
+		"4 %"
+	],
+	"r2": [
+		"5 %"
+	],
+	"r3": [
+		"6 %"
+	],
+	"r4": [
+		"7 %"
+	],
+	"r5": [
+		"8 %"
+	],
+	"weaponmaterialtype": "",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Proto.png",
+		"awakenicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Proto_Awaken.png"
+	},
+	"url": ""
+}

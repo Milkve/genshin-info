@@ -1,0 +1,28 @@
+{
+	"name": "菲谢尔",
+	"title": "断罪皇女！！",
+	"description": "自称「断罪之皇女」，与名为奥兹的漆黑夜鸦同行的神秘少女。",
+	"rarity": "4",
+	"element": "雷",
+	"weapontype": "弓",
+	"substat": "攻击力",
+	"gender": "女",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "冒险家协会",
+	"birthdaymmdd": "5/27",
+	"birthday": "5月27日",
+	"constellation": "幻鸦座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Fischl.png"
+	},
+	"cv": {
+		"english": "布兰特妮·考克斯&本·普罗斯基",
+		"chinese": "Mace&李元韬",
+		"japanese": "内田真礼&增谷康纪",
+		"korean": "朴高夽&李弦"
+	},
+	"talentmaterialtype": ""
+}

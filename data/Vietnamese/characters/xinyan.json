@@ -1,0 +1,28 @@
+{
+	"name": "Xinyan",
+	"title": "Giai Điệu Nóng Bỏng",
+	"description": "Nghệ sĩ rock duy nhất ở cảng Liyue, dùng âm nhạc và niềm đam mê hát lên chống lại những \"định kiến\".",
+	"rarity": "4",
+	"element": "Hỏa",
+	"weapontype": "Trọng Kiếm",
+	"substat": "Tấn Công",
+	"gender": "nữ",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Cảng Liyue",
+	"birthdaymmdd": "10/16",
+	"birthday": "16 tháng 10",
+	"constellation": "Hồng Đàn Tứ Huyền",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xinyan.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Xinyan.png"
+	},
+	"cv": {
+		"english": "Laura Stahl",
+		"chinese": "王雅欣",
+		"japanese": "たかはし智秋",
+		"korean": "김채하"
+	},
+	"talentmaterialtype": ""
+}

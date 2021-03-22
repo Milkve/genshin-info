@@ -1,0 +1,32 @@
+{
+	"name": "Hu Tao",
+	"title": "Fragrance in Thaw",
+	"description": "The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.",
+	"rarity": "5",
+	"element": "Pyro",
+	"weapontype": "Polearm",
+	"substat": "CRIT DMG",
+	"gender": "Female",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Wangsheng Funeral Parlor",
+	"birthdaymmdd": "7/15",
+	"birthday": "July 15",
+	"constellation": "Papilio Charontis",
+	"images": {
+		"image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Character_Hu_Tao_Thumb.png",
+		"card": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Character_Hu_Tao_Card.jpg",
+		"portrait": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Character_Hu_Tao_Portrait.png",
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Hutao.png"
+	},
+	"cv": {
+		"english": "Brianna Knickerbocker",
+		"chinese": "陶典",
+		"japanese": "高橋李依",
+		"korean": "김하루"
+	},
+	"talentmaterialtype": "Diligence",
+	"url": "https://genshin-impact.fandom.com/wiki/Hu_Tao"
+}

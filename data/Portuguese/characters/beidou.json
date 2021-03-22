@@ -1,0 +1,28 @@
+{
+	"name": "Beidou",
+	"title": "Rainha do Mar Sem Coroa",
+	"description": "Líder da frota armada Crux. Ela é uma chefe sem limites e franca.",
+	"rarity": "4",
+	"element": "Electro",
+	"weapontype": "Espadão",
+	"substat": "Bônus de Dano Electro",
+	"gender": "Feminino",
+	"body": "LADY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Frota da Cruz",
+	"birthdaymmdd": "2/14",
+	"birthday": "14 de fevereiro",
+	"constellation": "Victor Mare",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Beidou.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Beidou.png"
+	},
+	"cv": {
+		"english": "Allegra Clark",
+		"chinese": "唐雅菁",
+		"japanese": "小清水亜美",
+		"korean": "정유미"
+	},
+	"talentmaterialtype": ""
+}

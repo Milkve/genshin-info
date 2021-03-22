@@ -1,0 +1,28 @@
+{
+	"name": "Chongyun",
+	"title": "Bóng Hình Băng Giá",
+	"description": "Phương sĩ trẻ tuổi thuộc gia đình danh giá chuyên trừ tà, luôn cố gắng hết sức để khống chế \"thuần dương chi thể\" của bản thân.",
+	"rarity": "4",
+	"element": "Băng",
+	"weapontype": "Trọng Kiếm",
+	"substat": "Tấn Công",
+	"gender": "nam",
+	"body": "BOY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Cảng Liyue",
+	"birthdaymmdd": "9/7",
+	"birthday": "7 tháng 9",
+	"constellation": "Càn Khôn Phong",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Chongyun.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Chongyun.png"
+	},
+	"cv": {
+		"english": "Beau Bridgland",
+		"chinese": "kinsen",
+		"japanese": "斉藤壮馬",
+		"korean": "양정화"
+	},
+	"talentmaterialtype": ""
+}

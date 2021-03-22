@@ -1,0 +1,28 @@
+{
+	"name": "鍾離",
+	"title": "浮世閑歩",
+	"description": "「往生堂」に招かれた謎の客卿、博識であり、あらゆることに精通している。",
+	"rarity": "5",
+	"element": "岩",
+	"weapontype": "長柄武器",
+	"substat": "岩元素ダメージ",
+	"gender": "男",
+	"body": "MALE",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "璃月港",
+	"birthdaymmdd": "12/31",
+	"birthday": "12月31日",
+	"constellation": "岩王帝君座",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Zhongli.png"
+	},
+	"cv": {
+		"english": "Keith Silverstein",
+		"chinese": "彭博",
+		"japanese": "前野智昭",
+		"korean": "표영재"
+	},
+	"talentmaterialtype": ""
+}

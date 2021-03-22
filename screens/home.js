@@ -2,8 +2,8 @@ import React , { useState } from 'react';
 import { StatusBar } from 'expo-status-bar';
 import { Dimensions , StyleSheet, Text, View, Image, ScrollView, ImageBackground, TouchableOpacity } from 'react-native';
 import {Picker} from '@react-native-community/picker';
-import data from "../data/characters-info.json";
-import vision from "../data/vision.json";
+import data from "../db/characters-info.json";
+import vision from "../db/vision.json";
 
 const styles = StyleSheet.create({
   container: {

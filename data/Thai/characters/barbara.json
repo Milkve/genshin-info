@@ -1,0 +1,28 @@
+{
+	"name": "Barbara",
+	"title": "ดาราจรัสแสง",
+	"description": "ชาวเมือง Mondstadt ทุกคนต่างก็เอ็นดู Barbara และเธอเองก็เรียนรู้คำว่า \"ไอดอล\" จากนิตยสารด้วย",
+	"rarity": "4",
+	"element": "น้ำ",
+	"weapontype": "สื่อเวทย์",
+	"substat": "พลังชีวิต",
+	"gender": "ผู้หญิง",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Favonius Church",
+	"birthdaymmdd": "7/5",
+	"birthday": "5 กรกฎาคม",
+	"constellation": "Crater",
+	"images": {
+		"icon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png",
+		"sideicon": "https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Barbara.png"
+	},
+	"cv": {
+		"english": "Laura Stahl",
+		"chinese": "宋媛媛",
+		"japanese": "鬼頭明里",
+		"korean": "윤아영"
+	},
+	"talentmaterialtype": ""
+}
